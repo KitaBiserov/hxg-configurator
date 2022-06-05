@@ -1,0 +1,3 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+Cannot find file at '..\\lib\make\tools\install\bin\make.exe' (C:\ProgramData\chocolatey\lib\make\tools\install\bin\make.exe). This usually indicates a missing or moved file.
+ 

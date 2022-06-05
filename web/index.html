@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Huaxun Configurator</title>
+    <script src="./index_files/script.js"></script>
+    <link href="./index_files/style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="header"> <h3> Configurator</h3>
+    </header>
+    <div class="modal" id="modal">
+        <div class="modal-header">*Cервис на стадии разработки
+            <button data-close-button class="close-btn" id="1" name="close-btn">&times;</button>
+        </div>
+    </div>
+    <div class="bgcontent">
+        <div class="grid-index">
+            <div class="grid-item>">
+                <div class="logo">
+                    <img src="./index_files/src/huaxun_logo_web.png" class="logo image">
+                </div>
+            </div>
+            <div class="grid-item>">
+                <form action="/config.html">
+                    <div class="loginform">
+                        <div class="loginfield">
+                            <label for="login">
+                                <h1>login</h1>
+                            </label>
+                            <input type="text" name="login">
+                            <label for="password">
+                                <h1>password</h1>
+                            </label>
+                            <input type="text" name="password" required="">
+                            <div>
+                                <button type="submit" class="submit-button" href="./config.html"> <h1>enter</h1></button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+        <footer class="footer">
+            <div class="block">
+                <h2> Huaxun Group Ru</h2>
+            </div>
+            <div class="block">
+                <h2>Technical Support:  8 (952) 392-80-69</h2>
+            </div>
+        </footer>
+
+        <div id="overlay"></div>
+</body>
