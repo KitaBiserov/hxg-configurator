@@ -1,4 +1,4 @@
-module configsite
+module hxg-configurator
 
 go 1.18
 
