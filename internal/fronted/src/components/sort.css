@@ -1,0 +1,28 @@
+.sort-container{
+    width: 200px;
+    margin-left: 0;
+
+    border: 1px red solid;
+    margin-top: auto;
+    text-align: center;
+}
+
+
+.sort-container li {
+    margin-top: 30px;
+}
+.sort-pop-up {
+    width: 200px;
+    height: auto;
+    margin-left: -34px;
+    margin-right: 10px;
+}
+
+
+.sort-pop-app .active{
+    width: 200px;
+    background-color: aliceblue;
+    height: 300px;
+    display: block;
+    margin-left: 0;
+}

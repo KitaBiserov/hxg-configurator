@@ -1,0 +1,102 @@
+[ 
+ 
+  {
+    "id": 0,
+    "code": "0150A19S",
+    "img": "https://resource.h3c.com/en/201812/14/20181214_3866440_1_1135402_294549_0.jpg",
+    "category": "Networking",
+    "model": "RT-MSR3610-IE-DP+DDR4-16GB",
+    "type": ["Router","DDR4", "16GB"],
+    "description": "H3C MSR3610-I Enhanced ICT Converged Gateway with 16GB DDR4 Memory",
+    "quantity": 1,
+    "price": 6200
+  },
+    {
+      "id": 1,
+      "code": "0150A19S",
+      "img": "https://resource.h3c.com/en/201812/14/20181214_3866440_1_1135402_294549_0.jpg",
+      "category": "Networking",
+      "model": "RT-MSR3610-IE-DP+DDR4-16GB",
+      "type": ["Router","DDR4", "16GB"],
+      "description": "H3C MSR3610-I Enhanced ICT Converged Gateway with 16GB DDR4 Memory",
+      "quantity": 1,
+      "price": 6200
+    },
+    {
+      "id": 2,
+      "code": "0150A19T",
+      "img": "https://resource.h3c.com/en/201812/14/20181214_3866440_1_1135402_294549_0.jpg",
+      "category": "Networking",
+      "model": "RT-MSR3610-I-DP+DDR4-8GB",
+      "type": ["Router","DDR4", "8GB"], 
+      "description": "H3C MSR3610-I ICT Converged Gateway with 8GB DDR4 Memory",
+      "quantity": 1,
+      "price": 3990
+    },
+    {
+      "id": 3,
+      "code": "0213A07K",
+      "img": "https://img2.fr-trading.com/2/5_710_2395164_1000_1625.jpg.webp",
+      "category": "Power Modules",
+      "model": "DG-240-5501",
+      "type": ["AC","150W", "PoE"],
+      "description": "H3C DIN-Rail-Mount 150W PoE AC Power Supply Module for Industrial Ethernet Switches",
+      "quantity": 1,
+      "price": 399
+    },
+    {
+      "id": 4,
+      "code": "02312170",
+      "category": "Optics and Traceivers",
+      "img": "https://resource.fs.com/mall/products/550x550/49978.main.jpg",
+      "model": "SFP-GE-LH40-SM1310",
+      "type": ["1000BASE-LH40"," Single Mode", "1310nm"],
+      "description": "1000BASE-LH40 SFP Transceiver, Single Mode (1310nm, 40km, LC)",
+      "quantity": 1,
+      "price": 3650
+    },
+    {
+      "id": 5,
+      "code": "02312173",
+      "category": "Optics and Traceivers",
+      "img": "https://resource.fs.com/mall/products/550x550/49978.main.jpg",
+      "model": "SFP-GE-LH80-SM1550",
+      "type":  ["1000BASE-LH80"," Single Mode", "1550nm"],
+      "description": "1000BASE-LH80 SFP Transceiver, Single Mode (1550nm, 80km, LC)",
+      "quantity": 2,
+      "price": 3995
+    },
+    {
+      "id": 6,
+      "code": "0231A085",
+      "category": "Optics and Traceivers",
+      "img": "https://resource.fs.com/mall/products/550x550/15410.main.jpg",
+      "model": "SFP-GE-T",
+      "type":  ["SFP-GE-Copper", "RJ45"],
+      "description": "SFP-GE-Copper Interface Transceiver Module (100m,RJ45)",
+      "quantity": 2,
+      "price": 429
+    },
+    {
+      "id": 7,
+      "code": "0231A0A6",
+      "category": "Optics and Traceivers",
+      "img": "https://resource.fs.com/mall/products/180x180/14904.main.jpg",
+      "model": "SFP-XG-SX-MM850-A",
+      "type":  ["SFP-XG-SX", "850nm","LC"],
+      "description": "SFP+ Module(850nm,300m,LC)",
+      "quantity": 5,
+      "price": 340
+    },
+    {
+      "id": 8,
+      "code": "0231A0A8",
+      "category": "Optics and Traceivers",
+      "img": "https://resource.fs.com/mall/products/180x180/14904.main.jpg",
+      "model": "SFP-XG-LX-SM1310",
+      "type":  ["SFP+", "1310nm","LC","10km"],
+      "description": "SFP+ Module(1310nm,10km,LC)",
+      "quantity": 5,
+      "price": 910
+    }
+]

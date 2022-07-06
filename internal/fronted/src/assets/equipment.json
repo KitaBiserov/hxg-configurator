@@ -1,0 +1,2894 @@
+{
+    "PROCESSORS": [
+      {
+        "BOM Code": "0231ABNW",
+        "Model": "UN-M.2-2XSATA3",
+        "Description": "H3C UniServer M.2 Riser(2 SATA 3.0)",
+        "List Price(USD)": 29,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABP0",
+        "Model": "UN-NIC-10GE-2P-560F-LOM",
+        "Description": "H3C UniServer R4300 G3 2-Port 560F 10GE Fiber Interface LOM Ethernet Adapter(SFP+)",
+        "List Price(USD)": 313,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABX8",
+        "Model": "UN-CPU-6271-1U",
+        "Description": "H3C UniServer R4700 G3 6271(2.6GHz/24Cores/33MB/165W) CPU Module",
+        "List Price(USD)": 17292,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AA47",
+        "Model": "UN-QE-R4900-G3-UV-2",
+        "Description": "H3C UniServer R4900 G3 Multifunctional Rack Mount Kit(With VGA and USB)",
+        "List Price(USD)": 75,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AA67",
+        "Model": "UN-HDD-1.2T-SAS-12G-10K-SFF-1",
+        "Description": "H3C UniServer R5200 G3 1.2TB 12G SAS 10K 2.5in EP HDD Disk Equipment Module",
+        "List Price(USD)": 300,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AA68",
+        "Model": "UN-HDD-1.8T-SAS-12G-10K-SFF-1",
+        "Description": "H3C UniServer R5200 G3 1.8TB 12G SAS 10K 2.5in EP 512e HDD Disk Equipment Module",
+        "List Price(USD)": 472,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABGN",
+        "Model": "UN-SSD-1.92T-SATA-S4510-SFF-1",
+        "Description": "H3C UniServer R5200 G3 1.92TB 6G SATA 2.5in RI EV S4510 SSD Module",
+        "List Price(USD)": 1074,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AA76",
+        "Model": "UN-SSD-1T-NVMe-SFF-i-5",
+        "Description": "H3C UniServer R5200 G3 1TB PCIe*Gen3 X4 NVMe 2.5in RI U.2 EV P4510 SSD Disk Equipment Module",
+        "List Price(USD)": 854,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABFD",
+        "Model": "UN-HDD-2.4T-SAS-10K-SFF-1",
+        "Description": "H3C UniServer R5200 G3 2.4TB 12G SAS 10K 2.5in EP 512e HDD Module",
+        "List Price(USD)": 549,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AA6T",
+        "Model": "UN-SSD-2T-NVMe-SFF-i-5",
+        "Description": "H3C UniServer R5200 G3 2TB PCIe*Gen3 X4 NVMe 2.5in RI U.2 EV P4510 SSD Disk Equipment Module",
+        "List Price(USD)": 1573,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABGV",
+        "Model": "UN-SSD-3.84T-SATA-S4510-SFF-1",
+        "Description": "H3C UniServer R5200 G3 3.84TB 6G SATA 2.5in RI EV S4510 SSD Module",
+        "List Price(USD)": 1918,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABGW",
+        "Model": "UN-SSD-480G-SATA-S4510-SFF-1",
+        "Description": "H3C UniServer R5200 G3 480GB 6G SATA 2.5in RI EV S4510 SSD Module",
+        "List Price(USD)": 480,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AA5W",
+        "Model": "UN-SSD-4T-NVMe-SFF-i-4",
+        "Description": "H3C UniServer R5200 G3 4TB PCIe*Gen3 X4 NVMe 2.5in RI U.2 EV P4510 SSD Disk Equipment Module",
+        "List Price(USD)": 2367,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AA6N",
+        "Model": "UN-HDD-600G-SAS-12G-10K-SFF-2",
+        "Description": "H3C UniServer R5200 G3 600GB 12G SAS 10K 2.5in 512e HDD Disk Equipment Module",
+        "List Price(USD)": 225,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABGJ",
+        "Model": "UN-HDD-600G-SAS-15K-SFF-a-2",
+        "Description": "H3C UniServer R5200 G3 600GB 12G SAS 15K 2.5in HDD  Module",
+        "List Price(USD)": 418,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABGL",
+        "Model": "UN-SSD-960G-SATA-S4510-SFF-1",
+        "Description": "H3C UniServer R5200 G3 960GB 6G SATA 2.5in RI EV S4510 SSD Module",
+        "List Price(USD)": 674,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AC2H",
+        "Model": "UN-CPU-INTEL-5218",
+        "Description": "H3C UniServer R5300/R4300 G3 5218(2.3GHz/16Cores/22MB/125W) CPU Module",
+        "List Price(USD)": 3745,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AC2B",
+        "Model": "UN-CPU-INTEL-5220",
+        "Description": "H3C UniServer R5300/R4300 G3 5220(2.2GHz/18Cores/24.75MB/125W) CPU Module",
+        "List Price(USD)": 4748,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AC2C",
+        "Model": "UN-CPU-INTEL-6242",
+        "Description": "H3C UniServer R5300/R4300 G3 6242(2.8GHz/16Cores/22MB/150W) CPU Module",
+        "List Price(USD)": 7504,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AC25",
+        "Model": "UN-CPU-INTEL-6248",
+        "Description": "H3C UniServer R5300/R4300 G3 6248(2.5GHz/20Cores/27.5MB/150W) CPU Module",
+        "List Price(USD)": 9092,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AC26",
+        "Model": "UN-CPU-INTEL-8260",
+        "Description": "H3C UniServer R5300/R4300 G3 8260(2.4GHz/24Cores/35.75MB/165W) CPU Module",
+        "List Price(USD)": 11533,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AC27",
+        "Model": "UN-CPU-INTEL-8276",
+        "Description": "H3C UniServer R5300/R4300 G3 8276(2.2GHz/28Cores/38.5MB/165W) CPU Module",
+        "List Price(USD)": 28457,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABRD",
+        "Model": "UN-R6700-G3-D2C3S",
+        "Description": "H3C UniServer R6700 G3 2U4P Rack Server Dual-Processor Mezzanine Board,Supporting 3 PCIe Slots",
+        "List Price(USD)": 1049,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABYN",
+        "Model": "UN-CPU-INTEL-5218-2U4P",
+        "Description": "H3C UniServer R6700 G3 5218(2.3GHz/16Cores/22MB/125W) CPU Module",
+        "List Price(USD)": 3670,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABYT",
+        "Model": "UN-CPU-INTEL-5220-2U4P",
+        "Description": "H3C UniServer R6700 G3 5220(2.2GHz/18Cores/24.75MB/125W) CPU Module",
+        "List Price(USD)": 4778,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABYM",
+        "Model": "UN-CPU-INTEL-6230-2U4P",
+        "Description": "H3C UniServer R6700 G3 6230(2.1GHz/20Cores/27.5MB/125W) CPU Module",
+        "List Price(USD)": 5842,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABYX",
+        "Model": "UN-CPU-INTEL-6240-2U4P",
+        "Description": "H3C UniServer R6700 G3 6240(2.6GHz/18Cores/24.75MB/150W) CPU Module",
+        "List Price(USD)": 7264,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AC01",
+        "Model": "UN-CPU-INTEL-6240Y-2U4P",
+        "Description": "H3C UniServer R6700 G3 6240Y(2.6GHz/18Cores/24.75MB/150W) CPU Module",
+        "List Price(USD)": 8013,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AC0A",
+        "Model": "UN-CPU-INTEL-6242-2U4P",
+        "Description": "H3C UniServer R6700 G3 6242(2.8GHz/16Cores/22MB/150W) CPU Module",
+        "List Price(USD)": 7504,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABYK",
+        "Model": "UN-CPU-INTEL-6248-2U4P",
+        "Description": "H3C UniServer R6700 G3 6248(2.5GHz/20Cores/27.5MB/150W) CPU Module",
+        "List Price(USD)": 9062,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AC0C",
+        "Model": "UN-CPU-INTEL-6252-2U4P",
+        "Description": "H3C UniServer R6700 G3 6252(2.1GHz/24Cores/35.75MB/150W) CPU Module",
+        "List Price(USD)": 10874,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABYP",
+        "Model": "UN-CPU-INTEL-8260-2U4P",
+        "Description": "H3C UniServer R6700 G3 8260(2.4GHz/24Cores/35.75MB/165W) CPU Module",
+        "List Price(USD)": 11668,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8S5",
+        "Model": "UN-CPU-5122-4U",
+        "Description": "H3C UniServer R6900 G3 5122(3.6GHz/4Cores/16.5MB/105W) CPU Module",
+        "List Price(USD)": 3430,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABJ6",
+        "Model": "UN-CPU-5218-4U",
+        "Description": "H3C UniServer R6900 G3 5218(2.3GHz/16Cores/22MB/125W) CPU Module",
+        "List Price(USD)": 3805,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABJ7",
+        "Model": "UN-CPU-5220-4U",
+        "Description": "H3C UniServer R6900 G3 5220(2.2GHz/18Cores/24.75MB/125W) CPU Module",
+        "List Price(USD)": 4778,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8SD",
+        "Model": "UN-CPU-6154-4U",
+        "Description": "H3C UniServer R6900 G3 6154(3.0GHz/18Cores/24.75MB/200W) CPU Module",
+        "List Price(USD)": 10185,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABJB",
+        "Model": "UN-CPU-6230-4U",
+        "Description": "H3C UniServer R6900 G3 6230(2.1GHz/20Cores/27.5MB/125W) CPU Module",
+        "List Price(USD)": 5617,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABJ9",
+        "Model": "UN-CPU-6240-4U",
+        "Description": "H3C UniServer R6900 G3 6240(2.6GHz/18Cores/24.75MB/150W) CPU Module",
+        "List Price(USD)": 7264,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABJA",
+        "Model": "UN-CPU-6240Y-4U",
+        "Description": "H3C UniServer R6900 G3 6240Y(2.6GHz/18Cores/24.75MB/150W) CPU Module",
+        "List Price(USD)": 8013,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABJD",
+        "Model": "UN-CPU-6242-4U",
+        "Description": "H3C UniServer R6900 G3 6242(2.8GHz/16Cores/22MB/150W) CPU Module",
+        "List Price(USD)": 7504,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABJC",
+        "Model": "UN-CPU-6244-4U",
+        "Description": "H3C UniServer R6900 G3 6244(3.6GHz/8Cores/24.75MB/150W) CPU Module",
+        "List Price(USD)": 8792,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABHN",
+        "Model": "UN-CPU-6248-4U",
+        "Description": "H3C UniServer R6900 G3 6248(2.5GHz/20Cores/27.5MB/150W) CPU Module",
+        "List Price(USD)": 9062,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABHP",
+        "Model": "UN-CPU-6252-4U",
+        "Description": "H3C UniServer R6900 G3 6252(2.1GHz/24Cores/35.75MB/150W) CPU Module",
+        "List Price(USD)": 10874,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABHQ",
+        "Model": "UN-CPU-6267-4U",
+        "Description": "H3C UniServer R6900 G3 6267(2.6GHz/24Cores/33MB/165W) CPU Module",
+        "List Price(USD)": 12012,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABHV",
+        "Model": "UN-CPU-6271-4U",
+        "Description": "H3C UniServer R6900 G3 6271(2.6GHz/24Cores/33MB/165W) CPU Module",
+        "List Price(USD)": 19007,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABHW",
+        "Model": "UN-CPU-8260-4U",
+        "Description": "H3C UniServer R6900 G3 8260(2.4GHz/24Cores/35.75MB/165W) CPU Module",
+        "List Price(USD)": 11668,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      }
+    ],
+    "MEMORY": [
+      {
+        "BOM Code": "0231A6SS",
+        "Model": "UN-DDR4-2666-32G-2Rx4-R",
+        "Description": "32GB 2Rx4 DDR4-2666P-R Memory Module",
+        "List Price(USD)": 495
+      },
+      {
+        "BOM Code": "0150A19S",
+        "Model": "",
+        "Description": "H3C MSR3610-I Enhanced ICT Converged Gateway with 16GB DDR4 Memory",
+        "List Price(USD)": 6200
+      },
+      {
+        "BOM Code": "0150A19T",
+        "Model": "",
+        "Description": "H3C MSR3610-I ICT Converged Gateway with 8GB DDR4 Memory",
+        "List Price(USD)": 3990
+      },
+      {
+        "BOM Code": "0231A7SF",
+        "Model": "RT-DDR4-8G-1Rx8-U",
+        "Description": "8GB 1Rx8 PC4-19200 DDR4-2400T-UDIMM Memory Module",
+        "List Price(USD)": 585
+      },
+      {
+        "BOM Code": "0231A7SH",
+        "Model": "RT-DDR4-16G-2Rx8-U",
+        "Description": "16GB 2Rx8 PC4-19200 DDR4-2400T-UDIMM Memory Module",
+        "List Price(USD)": 1060
+      },
+      {
+        "BOM Code": "0231AAMF",
+        "Model": "UIS-UISM100-S-240GB SSD-32GB",
+        "Description": "UIS9000 UISM Hyper-Converged  Management Module D1527(2.2GHz/4 Cores/6MB/35W)+240G SATA SSD+2*16GB DDR4",
+        "List Price(USD)": 1805
+      },
+      {
+        "BOM Code": "0231AAND",
+        "Model": "UIS-DDR4-2666-16G-2Rx8-R",
+        "Description": "UIS9000 16GB 2Rx8 DDR4,2666P,R Memory Module",
+        "List Price(USD)": 253
+      },
+      {
+        "BOM Code": "0231AANL",
+        "Model": "UIS-DDR4-2666-16G-1Rx4-R",
+        "Description": "UIS9000 16GB 1Rx4 DDR4,2666P,R Memory Module",
+        "List Price(USD)": 270
+      },
+      {
+        "BOM Code": "0231AANW",
+        "Model": "UIS-DDR4-2666-32G-2Rx4-R",
+        "Description": "32GB 2Rx4 DDR4,2666P,R Memory Module",
+        "List Price(USD)": 506
+      },
+      {
+        "BOM Code": "0231AANX",
+        "Model": "UIS-DDR4-2666-64G-4Rx4-L",
+        "Description": "64GB 4Rx4 DDR4,2666P,L Memory Module",
+        "List Price(USD)": 858
+      },
+      {
+        "BOM Code": "0231AB6P",
+        "Model": "UIS-DDR4-2666-16G-1Rx4-R-2",
+        "Description": "16GB 1Rx4 DDR4-2666P-R Memory Module",
+        "List Price(USD)": 270
+      },
+      {
+        "BOM Code": "0231AB6Y",
+        "Model": "UIS-DDR4-2666-32G-2Rx4-R-2",
+        "Description": "32GB 2Rx4 DDR4-2666P-R Memory Module",
+        "List Price(USD)": 506
+      },
+      {
+        "BOM Code": "0231AB88",
+        "Model": "UIS-DDR4-2666-64G-4Rx4-L-2",
+        "Description": "64GB 4Rx4 DDR4-2666P-L Memory Module",
+        "List Price(USD)": 858
+      },
+      {
+        "BOM Code": "0231ABBG",
+        "Model": "RT-RPE-X5E",
+        "Description": "Main Processing Unit RPE-X5E(32G DDR4/1CON&AUX/1GE Mgt/1USB/2SFP+)",
+        "List Price(USD)": 11292
+      },
+      {
+        "BOM Code": "0231ABBK",
+        "Model": "RT-RPE-X5",
+        "Description": "Main Processing Unit RPE-X5(4G DDR4/1CON&AUX/1GE Mgt/1USB)",
+        "List Price(USD)": 6210
+      },
+      {
+        "BOM Code": "0231AC4N",
+        "Model": "UN-DDR4-2933P-64G-2Rx4-R",
+        "Description": "64GB 2Rx4 DDR4-2933P-R Memory Module",
+        "List Price(USD)": 1011
+      },
+      {
+        "BOM Code": "0231AC4S",
+        "Model": "UN-DDR4-2933P-16G-1Rx4-R",
+        "Description": "16GB 1Rx4 DDR4-2933P-R Memory Module",
+        "List Price(USD)": 300
+      },
+      {
+        "BOM Code": "0231AC4T",
+        "Model": "UN-DDR4-2933P-32G-2Rx4-R",
+        "Description": "32GB 2Rx4 DDR4-2933P-R Memory Module",
+        "List Price(USD)": 540
+      },
+      {
+        "BOM Code": "0231AC4V",
+        "Model": "UN-DDR4-2933P-16G-2Rx8-R",
+        "Description": "16GB 2Rx8 DDR4-2933P-R Memory Module",
+        "List Price(USD)": 293
+      },
+      {
+        "BOM Code": "0231AD59",
+        "Model": "UIS-DDR4-2933P-32G-2Rx4-R",
+        "Description": "32GB 2Rx4 DDR4-2933P-R Memory Module",
+        "List Price(USD)": 540
+      },
+      {
+        "BOM Code": "0231AD5A",
+        "Model": "UIS-DDR4-2933P-16G-2Rx8-R",
+        "Description": "16GB 2Rx8 DDR4-2933P-R Memory Module",
+        "List Price(USD)": 293
+      },
+      {
+        "BOM Code": "0231AD5B",
+        "Model": "UIS-DDR4-2933P-16G-1Rx4-R",
+        "Description": "16GB 1Rx4 DDR4-2933P-R Memory Module",
+        "List Price(USD)": 300
+      },
+      {
+        "BOM Code": "0231AD9M",
+        "Model": "UN-DDR4-2933P-16G-2Rx8-R-n",
+        "Description": "16GB 2Rx8 DDR4-2933P MICRON RDIMM Memory Module",
+        "List Price(USD)": 276
+      },
+      {
+        "BOM Code": "0231AEX6",
+        "Model": "UN-DDR4-2933-32G-2Rx8-R",
+        "Description": "32GB 2Rx8 DDR4-2933 CAS-21-21-21-R Memory Module",
+        "List Price(USD)": 540
+      },
+      {
+        "BOM Code": "0231AF6K",
+        "Model": "UN-DDR4-3200AA-64G-2Rx4-R",
+        "Description": "64GB 2Rx4 DDR4-3200 CAS-22-22-22 RDIMM Memory Module(CTO&BTO)",
+        "List Price(USD)": 944
+      },
+      {
+        "BOM Code": "0231AF6R",
+        "Model": "UN-DDR4-3200AA-16G-2Rx8-R",
+        "Description": "16GB 2Rx8 DDR4-3200 CAS-22-22-22 RDIMM Memory Module(CTO&BTO)",
+        "List Price(USD)": 285
+      },
+      {
+        "BOM Code": "0231AF76",
+        "Model": "UN-DDR4-3200AA-32G-2Rx4-R",
+        "Description": "32GB 2Rx4 DDR4-3200 CAS-22-22-22 RDIMM Memory Module(CTO&BTO)",
+        "List Price(USD)": 492
+      },
+      {
+        "BOM Code": "0231AG95",
+        "Model": "UN-DDR4-3200AA-32G-2Rx8-R",
+        "Description": "32GB 2Rx8 DDR4-3200 CAS-22-22-22 RDIMM Memory Module (CTO&BTO)",
+        "List Price(USD)": 465
+      },
+      {
+        "BOM Code": "0231AJ2D",
+        "Model": "UN-DDR4-3200-128G-4Rx4-R",
+        "Description": "128GB 4Rx4 DDR4-3200 CAS-26-22-22 3DS SAMSUNG RDIMM Memory Module(CTO&BTO)",
+        "List Price(USD)": 2979
+      },
+      {
+        "BOM Code": "9801A3H1",
+        "Model": "H3C C5550V",
+        "Description": "H3C C5550V Desktop Cloud Client,Intel 6Core 2.9GHz/8GB DDR4/512GB SSD/4*USB3.0/4*USB2.0/1*HDMI/1*VGA/1*1000M",
+        "List Price(USD)": 5000
+      }
+    ],
+    "POWER": [
+      {
+        "BOM Code": "0213A07K",
+        "Model": "DG-240-5501",
+        "Description": "H3C DIN-Rail-Mount 150W PoE AC Power Supply Module for Industrial Ethernet Switches",
+        "List Price(USD)": 399,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A0BK",
+        "Model": "AC-PSR650-A-H3",
+        "Description": "H3C PSR650A,AC Power Supply Module,650W",
+        "List Price(USD)": 1300,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A0PP",
+        "Model": "LSUM1AC2500",
+        "Description": "AC Power Supply Module,2500W",
+        "List Price(USD)": 3980,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A0QM",
+        "Model": "LSVM1AC650",
+        "Description": "650W AC Power Supply Module (Power Panel Side Intake Airflow)",
+        "List Price(USD)": 1090,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A1HX",
+        "Model": "AC-PSR1200-A",
+        "Description": "H3C PSR1200A,AC Power Supply Module,1200W",
+        "List Price(USD)": 2198,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A1SU",
+        "Model": "LSVM1AC300",
+        "Description": "300W AC Power Supply Module (Power Panel Side Intake Airflow)",
+        "List Price(USD)": 649,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A1U0",
+        "Model": "LSPM2150A",
+        "Description": "150W Asset-manageable AC Power Module",
+        "List Price(USD)": 450,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A2ER",
+        "Model": "AC-PSR300-12A2",
+        "Description": "300W AC Power Supply Module",
+        "List Price(USD)": 580,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A2LC",
+        "Model": "LSUM1AC1200",
+        "Description": "AC Power Module,1200W",
+        "List Price(USD)": 2100,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A2MR",
+        "Model": "AC-PSR150-A1",
+        "Description": "150W AC Power Supply Module",
+        "List Price(USD)": 450,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A2SN",
+        "Model": "PSR2400-54A",
+        "Description": "AC Power Module,2400W",
+        "List Price(USD)": 3980,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A5CH",
+        "Model": "PSR3000-54A",
+        "Description": "3000W AC Power Supply Module",
+        "List Price(USD)": 4300,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A6M0",
+        "Model": "PSR250-12A",
+        "Description": "250W AC Power Supply Module (Power Panel Side Intake Airflow)",
+        "List Price(USD)": 549,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A6N9",
+        "Model": "PSR450-12A",
+        "Description": "450W AC Power Supply Module (Power Panel Side Intake Airflow)",
+        "List Price(USD)": 861,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A6NC",
+        "Model": "PSR450-12A1",
+        "Description": "450W AC Power Supply Module (Power Panel Side Exhaust Airflow)",
+        "List Price(USD)": 861,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A7FW",
+        "Model": "PSR650C-12A-GL",
+        "Description": "H3C 650W AC Power Supply Module",
+        "List Price(USD)": 1420,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A7G0",
+        "Model": "LSQM2AC1400-GL",
+        "Description": "H3C 1400W AC Power Supply Module",
+        "List Price(USD)": 2500,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A7G1",
+        "Model": "LSQM2AC650-GL",
+        "Description": "H3C 650W AC Power Supply Module",
+        "List Price(USD)": 1410,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A7G4",
+        "Model": "LSQM2AC300-GL",
+        "Description": "H3C 300W AC Power Supply Module",
+        "List Price(USD)": 1000,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A6CK",
+        "Model": "UN-PSR550-12A",
+        "Description": "550W AC & 240V HVDC Power Supply(FP-R1-Platinum)",
+        "List Price(USD)": 180,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A6CK",
+        "Model": "UN-PSR550-12A",
+        "Description": "550W AC & 240V HVDC Power Supply(FP-R1-Platinum)",
+        "List Price(USD)": 180,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A6CM",
+        "Model": "UN-PSR800-12A",
+        "Description": "800W AC & 240V HVDC Power Supply(FP-R1-Platinum)",
+        "List Price(USD)": 250,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A6F7",
+        "Model": "UN-PSR1200-12A",
+        "Description": "1200W AC & 240V HVDC Power Supply(FP-R1-Platinum)",
+        "List Price(USD)": 469,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A6PS",
+        "Model": "PSR3000-54AHD",
+        "Description": "3000W AC & 240V-380V HVDC Power Supply",
+        "List Price(USD)": 4300,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A7G2",
+        "Model": "PSR2500-12AHD-GL",
+        "Description": "H3C 2500W AC Power Supply Module,HVDC Supported",
+        "List Price(USD)": 3680,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A0PR",
+        "Model": "LSUM1DC2400",
+        "Description": "DC Power Supply Module,2400W",
+        "List Price(USD)": 4350,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A0QP",
+        "Model": "LSVM1DC650",
+        "Description": "650W DC Power Supply Module (Power Panel Side Intake Airflow)",
+        "List Price(USD)": 1290,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A1HY",
+        "Model": "DC-PSR1200-D",
+        "Description": "H3C PSR1200D,DC Power Supply Module,1200W",
+        "List Price(USD)": 2250,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A1SV",
+        "Model": "LSVM1DC300",
+        "Description": "300W DC Power Supply Module (Power Panel Side Intake Airflow)",
+        "List Price(USD)": 919,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A2G5",
+        "Model": "DC-PSR300-12D2",
+        "Description": "300W DC Power Supply Module",
+        "List Price(USD)": 1100,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A2MT",
+        "Model": "DC-PSR150-D1",
+        "Description": "150W DC Power Supply Module",
+        "List Price(USD)": 750,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A2X7",
+        "Model": "PSR2400-54D",
+        "Description": "DC Power Module,2400W",
+        "List Price(USD)": 3980,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A5PV",
+        "Model": "PSR560-56D",
+        "Description": "560W DC Pluggable Power Module",
+        "List Price(USD)": 1080,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A5XG",
+        "Model": "NSQM1DC2400",
+        "Description": "DC Power Supply Module,2400W",
+        "List Price(USD)": 4800,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A6NB",
+        "Model": "PSR450-12D",
+        "Description": "450W DC Power Supply Module (Power Panel Side Exhaust Airflow)",
+        "List Price(USD)": 1139,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A6UH",
+        "Model": "PSR800-12AHD",
+        "Description": "800W 336V HVDC Power Supply with Dedicated Power Cable(FP-R1-Platinum)",
+        "List Price(USD)": 266,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A6UH",
+        "Model": "PSR800-12AHD",
+        "Description": "800W 336V HVDC Power Supply with Dedicated Power Cable(FP-R1-Platinum)",
+        "List Price(USD)": 266,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A7FX",
+        "Model": "PSR650C-12D-GL",
+        "Description": "H3C 650W DC Power Supply Module",
+        "List Price(USD)": 1759,
+        "Discount": 1
+      },
+      {
+        "BOM Code": "0231A7G3",
+        "Model": "PSR2500-12D-GL",
+        "Description": "H3C 2500W DC Power Supply Module",
+        "List Price(USD)": 3280,
+        "Discount": 1
+      }
+    ],
+    "HDD,SSD": [
+      {
+        "BOM Code": "0231A6KD",
+        "Model": "UN-HDD-1.8T-SAS-12G-10K-SFF",
+        "Description": "1.8TB 12G SAS 10K 2.5in EP 512e HDD General Intelligent Disk Equipment Module",
+        "List Price(USD)": 472
+      },
+      {
+        "BOM Code": "0231A5F4",
+        "Model": "UN-HDD-600G-SAS-12G-15K-SFF-1",
+        "Description": "600GB 12G SAS 15K 2.5in HDD General Intelligent Disk Equipment Module",
+        "List Price(USD)": 420
+      },
+      {
+        "BOM Code": "0231A5F8",
+        "Model": "UN-HDD-1T-SATA-6G-7.2K-SFF-1",
+        "Description": "1TB 6G SATA 7.2k 2.5in HDD General Intelligent Disk Equipment Module",
+        "List Price(USD)": 417
+      },
+      {
+        "BOM Code": "0231A5F8",
+        "Model": "UN-HDD-1T-SATA-6G-7.2K-SFF-1",
+        "Description": "1TB 6G SATA 7.2k 2.5in HDD General Intelligent Disk Equipment Module",
+        "List Price(USD)": 417
+      },
+      {
+        "BOM Code": "0231A5F5",
+        "Model": "UN-HDD-600G-SAS-12G-15K-LFF-1",
+        "Description": "600GB 12G SAS 15K 3.5in HDD General Intelligent Disk Equipment Module",
+        "List Price(USD)": 416
+      },
+      {
+        "BOM Code": "0231A5TT",
+        "Model": "UN-HDD-6T-SAS-12G-7.2K-LFF",
+        "Description": "6TB 12G SAS 7.2K 3.5in EM HDD General Intelligent Disk Equipment Module",
+        "List Price(USD)": 405
+      },
+      {
+        "BOM Code": "0231A6KB",
+        "Model": "UN-HDD-6T-SATA-6G-7.2K-LFF",
+        "Description": "6TB 6G SATA 7.2K 3.5in EV 512e HDD General Intelligent Disk Equipment Module",
+        "List Price(USD)": 375
+      },
+      {
+        "BOM Code": "0231A5FD",
+        "Model": "UN-HDD-4T-SAS-12G-7.2K-LFF",
+        "Description": "4TB 12G SAS 7.2K 3.5in HDD General Intelligent Disk Equipment Module",
+        "List Price(USD)": 354
+      },
+      {
+        "BOM Code": "0231A6KA",
+        "Model": "UN-HDD-4T-SATA-6G-7.2K-LFF",
+        "Description": "4TB 6G SATA 7.2K 3.5in EV 512e HDD General Intelligent Disk Equipment Module",
+        "List Price(USD)": 330
+      },
+      {
+        "BOM Code": "0231A6KF",
+        "Model": "UN-HDD-2T-SAS-12G-7.2K-LFF",
+        "Description": "2TB 12G SAS 7.2K 3.5in EM 512e HDD General Intelligent Disk Equipment Module",
+        "List Price(USD)": 303
+      },
+      {
+        "BOM Code": "0231A5TU",
+        "Model": "UN-HDD-1.2T-SAS-12G-10K-SFF",
+        "Description": "1.2TB 12G SAS 10K 2.5in EP HDD General Intelligent Disk Equipment Module",
+        "List Price(USD)": 300
+      },
+      {
+        "BOM Code": "0231A6KE",
+        "Model": "UN-HDD-600G-SAS-12G-10K-SFF",
+        "Description": "600GB 12G SAS 10K 2.5in EP 512n HDD General Intelligent Disk Equipment Module",
+        "List Price(USD)": 225
+      },
+      {
+        "BOM Code": "0231A5FE",
+        "Model": "UN-HDD-Cage-2SFF-R4900",
+        "Description": "2SFF HDD Cage Module",
+        "List Price(USD)": 60
+      },
+      {
+        "BOM Code": "0231AD1V",
+        "Model": "UIS-SSD-3.84T-SATA-6G-EM-SFF-i",
+        "Description": "3.84TB 6G SATA 2.5in EM S4610 SSD Generic Module-i",
+        "List Price(USD)": 2472
+      },
+      {
+        "BOM Code": "0231AD22",
+        "Model": "UIS-SSD-1.92T-SATA-6G-EM-SCL-i",
+        "Description": "1.92TB 6G SATA 3.5in EM S4610 SSD Generic Module-i",
+        "List Price(USD)": 1289
+      },
+      {
+        "BOM Code": "0231AD23",
+        "Model": "UIS-SSD-1.92T-SATA-6G-EM-SFF-i",
+        "Description": "1.92TB 6G SATA 2.5in EM S4610 SSD Generic Module-i",
+        "List Price(USD)": 1289
+      },
+      {
+        "BOM Code": "0231AD24",
+        "Model": "UIS-SSD-3.84T-SATA-6G-EM-SCL-i",
+        "Description": "3.84TB 6G SATA 3.5in EM S4610 SSD Generic Module-i",
+        "List Price(USD)": 2472
+      },
+      {
+        "BOM Code": "0231ADJ2",
+        "Model": "UIS-SSD-240G-SATA-S4510-M2",
+        "Description": "240GB SATA S4510 M.2 SSD Module",
+        "List Price(USD)": 435
+      },
+      {
+        "BOM Code": "0231ADJ3",
+        "Model": "UIS-SSD-480G-SATA-5100ECO-M2",
+        "Description": "480GB SATA 5100ECO M.2 SSD Module",
+        "List Price(USD)": 490
+      },
+      {
+        "BOM Code": "0231ADJ5",
+        "Model": "UIS-SSD-480G-SATA-S4510-M2",
+        "Description": "480GB SATA S4510 M.2 SSD Module",
+        "List Price(USD)": 379
+      },
+      {
+        "BOM Code": "0231AE2T",
+        "Model": "SSD-480G-SATA-M.2",
+        "Description": "480GB SATA M.2 SSD Module",
+        "List Price(USD)": 1065
+      },
+      {
+        "BOM Code": "0231AEHJ",
+        "Model": "UN-SSD-960G-SATA-5300PRO-SFF",
+        "Description": "960GB 6G SATA 2.5in RI 5300PRO SSD Generic Module",
+        "List Price(USD)": 585
+      },
+      {
+        "BOM Code": "0231AEHK",
+        "Model": "UN-SSD-480G-SATA-5300PRO-SCL",
+        "Description": "480GB 6G SATA 3.5in RI 5300PRO SSD Generic Module",
+        "List Price(USD)": 330
+      },
+      {
+        "BOM Code": "0231AEHL",
+        "Model": "UN-SSD-7.68T-SATA-5300PRO-SCL",
+        "Description": "7.68TB 6G SATA 3.5in RI 5300PRO SSD Generic Module",
+        "List Price(USD)": 3625
+      },
+      {
+        "BOM Code": "0231AEHP",
+        "Model": "UN-SSD-3.84T-SATA-5300MAX-SFF",
+        "Description": "3.84TB 6G SATA 2.5in MU 5300MAX SSD Generic Module",
+        "List Price(USD)": 2472
+      },
+      {
+        "BOM Code": "0231AEHR",
+        "Model": "UN-SSD-3.84T-SATA-5300MAX-SCL",
+        "Description": "3.84TB 6G SATA 3.5in MU 5300MAX SSD Generic Module",
+        "List Price(USD)": 2472
+      },
+      {
+        "BOM Code": "0231AEHX",
+        "Model": "UN-SSD-480G-SATA-5300PRO-SFF",
+        "Description": "480GB 6G SATA 2.5in RI 5300PRO SSD Generic Module",
+        "List Price(USD)": 330
+      },
+      {
+        "BOM Code": "0231AEJ0",
+        "Model": "UN-SSD-7.68T-SATA-5300PRO-SFF",
+        "Description": "7.68TB 6G SATA 2.5in RI 5300PRO SSD Generic Module",
+        "List Price(USD)": 3625
+      },
+      {
+        "BOM Code": "0231AEJ2",
+        "Model": "UN-SSD-960G-SATA-5300MAX-SCL",
+        "Description": "960GB 6G SATA 3.5in MU 5300MAX SSD Generic Module",
+        "List Price(USD)": 734
+      },
+      {
+        "BOM Code": "0231AEJ4",
+        "Model": "UN-SSD-1.92T-SATA-5300MAX-SCL",
+        "Description": "1.92TB 6G SATA 3.5in MU 5300MAX SSD Generic Module",
+        "List Price(USD)": 1423
+      },
+      {
+        "BOM Code": "0231AEJ5",
+        "Model": "UN-SSD-1.92T-SATA-5300MAX-SFF",
+        "Description": "1.92TB 6G SATA 2.5in MU 5300MAX SSD Generic Module",
+        "List Price(USD)": 1423
+      },
+      {
+        "BOM Code": "0231AEJE",
+        "Model": "UN-SSD-1.92T-SATA-5300PRO-SCL",
+        "Description": "1.92TB 6G SATA 3.5in RI 5300PRO SSD Generic Module",
+        "List Price(USD)": 1071
+      },
+      {
+        "BOM Code": "0231AEJF",
+        "Model": "UN-SSD-3.84T-SATA-5300PRO-SFF",
+        "Description": "3.84TB 6G SATA 2.5in RI 5300PRO SSD Generic Module",
+        "List Price(USD)": 1992
+      },
+      {
+        "BOM Code": "0231AEJG",
+        "Model": "UN-SSD-3.84T-SATA-5300PRO-SCL",
+        "Description": "3.84TB 6G SATA 3.5in RI 5300PRO SSD Generic Module",
+        "List Price(USD)": 1992
+      },
+      {
+        "BOM Code": "0231AEJJ",
+        "Model": "UN-SSD-480G-SATA-5300MAX-SCL",
+        "Description": "480GB 6G SATA 3.5in MU 5300MAX SSD Generic Module",
+        "List Price(USD)": 532
+      },
+      {
+        "BOM Code": "0231AEJK",
+        "Model": "UN-SSD-960G-SATA-5300MAX-SFF",
+        "Description": "960GB 6G SATA 2.5in MU 5300MAX SSD Generic Module",
+        "List Price(USD)": 734
+      },
+      {
+        "BOM Code": "0231AEJT",
+        "Model": "UN-SSD-1.92T-SATA-5300PRO-SFF",
+        "Description": "1.92TB 6G SATA 2.5in RI 5300PRO SSD Generic Module",
+        "List Price(USD)": 1071
+      },
+      {
+        "BOM Code": "0231AEJU",
+        "Model": "UN-SSD-960G-SATA-5300PRO-SCL",
+        "Description": "960GB 6G SATA 3.5in RI 5300PRO SSD Generic Module",
+        "List Price(USD)": 585
+      },
+      {
+        "BOM Code": "0231AEJV",
+        "Model": "UN-SSD-240G-SATA-5300MAX-SFF",
+        "Description": "240GB 6G SATA 2.5in MU 5300MAX SSD Generic Module",
+        "List Price(USD)": 323
+      },
+      {
+        "BOM Code": "0231AEJW",
+        "Model": "UN-SSD-240G-SATA-5300MAX-SCL",
+        "Description": "240GB 6G SATA 3.5in MU 5300MAX SSD Generic Module",
+        "List Price(USD)": 323
+      },
+      {
+        "BOM Code": "0231AEJX",
+        "Model": "UN-SSD-480G-SATA-5300MAX-SFF",
+        "Description": "480GB 6G SATA 2.5in MU 5300MAX SSD Generic Module",
+        "List Price(USD)": 532
+      },
+      {
+        "BOM Code": "0231AES3",
+        "Model": "UN-SSD-480G-SATA-5300PRO-M.2",
+        "Description": "480GB SATA RI 5300PRO M.2 SSD Module",
+        "List Price(USD)": 330
+      },
+      {
+        "BOM Code": "0231AF77",
+        "Model": "UN-SSD-1.92T-SATA-S4510-UCS",
+        "Description": "1.92TB 6G SATA 2.5in RI S4510 SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 1071
+      },
+      {
+        "BOM Code": "0231AF78",
+        "Model": "UN-SSD-960G-SATA-S4610-UCS",
+        "Description": "960GB 6G SATA 2.5in MU S4610 SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 749
+      },
+      {
+        "BOM Code": "0231AF7C",
+        "Model": "UN-SSD-1.92T-SATA-S4610-UCS",
+        "Description": "1.92TB 6G SATA 2.5in MU S4610 SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 1289
+      },
+      {
+        "BOM Code": "0231AF7J",
+        "Model": "UN-SSD-480G-SATA-S4510-UCS",
+        "Description": "480GB 6G SATA 2.5in RI S4510 SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 480
+      },
+      {
+        "BOM Code": "0231AF7K",
+        "Model": "UN-SSD-960G-SATA-S4510-UCS",
+        "Description": "960GB 6G SATA 2.5in RI S4510 SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 674
+      },
+      {
+        "BOM Code": "0231AFDC",
+        "Model": "UN-SSD-7.68T-SATA-5300PRO-UCC",
+        "Description": "7.68TB 6G SATA 3.5in RI 5300PRO SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 3610
+      },
+      {
+        "BOM Code": "0231AFDD",
+        "Model": "UN-SSD-240G-SATA-5300MAX-UCC",
+        "Description": "240GB 6G SATA 3.5in MU 5300MAX SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 323
+      },
+      {
+        "BOM Code": "0231AFDE",
+        "Model": "UN-SSD-480G-SATA-5300MAX-UCC",
+        "Description": "480GB 6G SATA 3.5in MU 5300MAX SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 532
+      },
+      {
+        "BOM Code": "0231AFDF",
+        "Model": "UN-SSD-480G-SATA-5300MAX-UCS",
+        "Description": "480GB 6G SATA 2.5in MU 5300MAX SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 532
+      },
+      {
+        "BOM Code": "0231AFDG",
+        "Model": "UN-SSD-480G-SATA-S4510-UCC",
+        "Description": "480GB 6G SATA 3.5in RI S4510 SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 480
+      },
+      {
+        "BOM Code": "0231AFDK",
+        "Model": "UN-SSD-960G-SATA-S4610-UCC",
+        "Description": "960GB 6G SATA 3.5in MU S4610 SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 749
+      },
+      {
+        "BOM Code": "0231AFDL",
+        "Model": "UN-SSD-480G-SATA-PM883-UCS",
+        "Description": "480GB 6G SATA 2.5in RI PM883 SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 330
+      },
+      {
+        "BOM Code": "0231AFDM",
+        "Model": "UN-SSD-960G-SATA-PM883-UCC",
+        "Description": "960GB 6G SATA 3.5in RI PM883 SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 585
+      },
+      {
+        "BOM Code": "0231AFDN",
+        "Model": "UN-SSD-960G-SATA-PM883-UCS",
+        "Description": "960GB 6G SATA 2.5in RI PM883 SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 585
+      },
+      {
+        "BOM Code": "0231AFDP",
+        "Model": "UN-SSD-240G-SATA-5300PRO-UCS",
+        "Description": "240GB 6G SATA 2.5in RI 5300PRO SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 285
+      },
+      {
+        "BOM Code": "0231AFDQ",
+        "Model": "UN-SSD-480G-SATA-5300PRO-UCS",
+        "Description": "480GB 6G SATA 2.5in RI 5300PRO SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 330
+      },
+      {
+        "BOM Code": "0231AFDS",
+        "Model": "UN-SSD-960G-SATA-5300PRO-UCC",
+        "Description": "960GB 6G SATA 3.5in RI 5300PRO SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 585
+      },
+      {
+        "BOM Code": "0231AFDT",
+        "Model": "UN-SSD-480G-SATA-5300PRO-UCC",
+        "Description": "480GB 6G SATA 3.5in RI 5300PRO SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 330
+      },
+      {
+        "BOM Code": "0231AFDU",
+        "Model": "UN-SSD-1.92T-SATA-S4610-UCC",
+        "Description": "1.92TB 6G SATA 3.5in MU S4610 SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 1289
+      },
+      {
+        "BOM Code": "0231AFDX",
+        "Model": "UN-SSD-3.84T-SATA-5300PRO-UCC",
+        "Description": "3.84TB 6G SATA 3.5in RI 5300PRO SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 1992
+      },
+      {
+        "BOM Code": "0231AFDY",
+        "Model": "UN-SSD-960G-SATA-S4510-UCC",
+        "Description": "960GB 6G SATA 3.5in RI S4510 SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 674
+      },
+      {
+        "BOM Code": "0231AFE1",
+        "Model": "UN-SSD-1.92T-SATA-S4510-UCC",
+        "Description": "1.92TB 6G SATA 3.5in RI S4510 SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 1074
+      },
+      {
+        "BOM Code": "0231AFE2",
+        "Model": "UN-SSD-3.84T-SATA-5300MAX-UCS",
+        "Description": "3.84TB 6G SATA 2.5in MU 5300MAX SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 2622
+      },
+      {
+        "BOM Code": "0231AFE3",
+        "Model": "UN-SSD-3.84T-SATA-5300MAX-UCC",
+        "Description": "3.84TB 6G SATA 3.5in MU 5300MAX SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 2472
+      },
+      {
+        "BOM Code": "0231AFE8",
+        "Model": "UN-SSD-3.84T-SATA-5300PRO-UCS",
+        "Description": "3.84TB 6G SATA 2.5in RI 5300PRO SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 1992
+      },
+      {
+        "BOM Code": "0231AFE9",
+        "Model": "UN-SSD-7.68T-SATA-5300PRO-UCS",
+        "Description": "7.68TB 6G SATA 2.5in RI 5300PRO SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 3610
+      },
+      {
+        "BOM Code": "0231AFEB",
+        "Model": "UN-SSD-960G-SATA-5300MAX-UCC",
+        "Description": "960GB 6G SATA 3.5in MU 5300MAX SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 734
+      },
+      {
+        "BOM Code": "0231AFEH",
+        "Model": "UN-SSD-960G-SATA-5300PRO-UCS",
+        "Description": "960GB 6G SATA 2.5in RI 5300PRO SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 585
+      },
+      {
+        "BOM Code": "0231AFEL",
+        "Model": "UN-SSD-1.92T-SATA-5300PRO-UCC",
+        "Description": "1.92TB 6G SATA 3.5in RI 5300PRO SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 1071
+      },
+      {
+        "BOM Code": "0231AFEP",
+        "Model": "UN-SSD-240G-SATA-5300MAX-UCS",
+        "Description": "240GB 6G SATA 2.5in MU 5300MAX SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 360
+      },
+      {
+        "BOM Code": "0231AFER",
+        "Model": "UN-SSD-3.84T-SATA-S4610-UCS",
+        "Description": "3.84TB 6G SATA 2.5in MU S4610 SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 2472
+      },
+      {
+        "BOM Code": "0231AFES",
+        "Model": "UN-SSD-960G-SATA-5300MAX-UCS",
+        "Description": "960GB 6G SATA 2.5in MU 5300MAX SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 734
+      },
+      {
+        "BOM Code": "0231AFEU",
+        "Model": "UN-SSD-1.92T-SATA-5300MAX-UCS",
+        "Description": "1.92TB 6G SATA 2.5in MU 5300MAX SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 1423
+      },
+      {
+        "BOM Code": "0231AFEV",
+        "Model": "UN-SSD-1.92T-SATA-5300MAX-UCC",
+        "Description": "1.92TB 6G SATA 3.5in MU 5300MAX SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 1423
+      },
+      {
+        "BOM Code": "0231AFEW",
+        "Model": "UN-SSD-3.84T-SATA-S4610-UCC",
+        "Description": "3.84TB 6G SATA 3.5in MU S4610 SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 2472
+      },
+      {
+        "BOM Code": "0231AFEX",
+        "Model": "UN-SSD-480G-SATA-PM883-UCC",
+        "Description": "480GB 6G SATA 3.5in RI PM883 SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 330
+      },
+      {
+        "BOM Code": "0231AFEY",
+        "Model": "UN-SSD-240G-SATA-5300PRO-UCC",
+        "Description": "240GB 6G SATA 3.5in RI 5300PRO SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 285
+      },
+      {
+        "BOM Code": "0231AFF2",
+        "Model": "UN-SSD-1.92T-SATA-5300PRO-UCS",
+        "Description": "1.92TB 6G SATA 2.5in RI 5300PRO SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 1071
+      },
+      {
+        "BOM Code": "0231AFWE",
+        "Model": "UN-SSD-240G-SATA-S4510-UCC",
+        "Description": "240GB 6G SATA 3.5in RI S4510 SSD UCC Generic Module (CTO&BTO)",
+        "List Price(USD)": 300
+      },
+      {
+        "BOM Code": "0231AGBC",
+        "Model": "UN-SSD-480G-SATA-S4610-UCS",
+        "Description": "480GB 6G SATA 2.5in MU S4610 SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 532
+      },
+      {
+        "BOM Code": "0231AGBD",
+        "Model": "UN-SSD-3.84T-SATA-S4510-UCS",
+        "Description": "3.84TB 6G SATA 2.5in RI S4510 SSD UC Generic Module(CTO&BTO)",
+        "List Price(USD)": 1918
+      },
+      {
+        "BOM Code": "0231AGBE",
+        "Model": "UN-SSD-480G-SATA-S4610-UCC",
+        "Description": "480GB 6G SATA 3.5in MU S4610 SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 532
+      },
+      {
+        "BOM Code": "0231AGBF",
+        "Model": "UN-SSD-3.84T-SATA-S4510-UCC",
+        "Description": "3.84TB 6G SATA 3.5in RI S4510 SSD UCC Generic Module(CTO&BTO)",
+        "List Price(USD)": 1918
+      }
+    ],
+    "OS": [
+      {
+        "BOM Code": "0150A1LB",
+        "PID": "SWP-WINSVR2019-Dtcntr",
+        "Description": "Windows Server 2019 Datacntr OS 16 Core Software (DVD) (Chinese)",
+        "List Price(USD)": 13180
+      },
+      {
+        "BOM Code": "0150A1NQ",
+        "PID": "SWP-WINSVR2019-DC-En",
+        "Description": "Windows Server 2019 Datacntr OS 16 Core Software (DVD) (English)",
+        "List Price(USD)": 13180
+      },
+      {
+        "BOM Code": "0150A1NU",
+        "PID": "SWP-WINSVR2019-Std-En",
+        "Description": "Windows Server 2019 Standard OS 16 Core Software (DVD)(English)",
+        "List Price(USD)": 2547
+      },
+      {
+        "BOM Code": "0150A1LE",
+        "PID": "SWP-WINSVR2019-Std",
+        "Description": "Windows Server 2019 Standard OS 16 Core Software (DVD)(Chinese)",
+        "List Price(USD)": 2517
+      },
+      {
+        "BOM Code": "0150A27X",
+        "PID": "SWP-WINSVR2022-Std-En",
+        "Description": "Windows Server 2022 Standard OS 16 Core Software (DVD)(English)",
+        "List Price(USD)": 2097
+      },
+      {
+        "BOM Code": "0150A1NY",
+        "PID": "LIS-WINSVR2019-Dsktp-Add Lic-En",
+        "Description": "Windows Server 2019 Datacntr OS 2 Core NoMedia/NoKey Add Lic(English)",
+        "List Price(USD)": 1648
+      },
+      {
+        "BOM Code": "0150A1LF",
+        "PID": "LIS-WINSVR2019-Dsktp-Add Lic",
+        "Description": "Windows Server 2019 Datacntr OS 2 Core NoMedia/NoKey Add Lic(Chinese)",
+        "List Price(USD)": 1609
+      },
+      {
+        "BOM Code": "0150A1P2",
+        "PID": "LIS-WINSVR2019-RDS-User-En",
+        "Description": "Windows Server 2019,English,Dsktp Svcs CAL,1Device CAL(English)",
+        "List Price(USD)": 450
+      },
+      {
+        "BOM Code": "0150A1LC",
+        "PID": "LIS-WINSVR2019-Dsktp Svcs-User",
+        "Description": "Windows Server 2019,Chinese,Dsktp Svcs CAL,1Device CAL(Chinese)",
+        "List Price(USD)": 382
+      },
+      {
+        "BOM Code": "0150A1NS",
+        "PID": "LIS-WINSVR2019-RDS-Dev-En",
+        "Description": "Windows Server 2019,English,Dsktp Svcs CAL,1Device CAL(English)",
+        "List Price(USD)": 345
+      },
+      {
+        "BOM Code": "0150A1LH",
+        "PID": "LIS-WINSVR2019-Std-Add Lic",
+        "Description": "Windows Server 2019 Standard OS 2 Core NoMedia/NoKey Add Lic(Chinese)",
+        "List Price(USD)": 306
+      },
+      {
+        "BOM Code": "0150A1P0",
+        "PID": "LIS-WINSVR2019-Std-Add Lic-En",
+        "Description": "Windows Server 2019 Standard OS 2 Core NoMedia/NoKey Add Lic(English)",
+        "List Price(USD)": 300
+      },
+      {
+        "BOM Code": "0150A27Q",
+        "PID": "LIS-WINSVR2022-Std-Add Lic-En",
+        "Description": "Windows Server 2022 Standard OS 2 Core NoMedia/NoKey Add Lic (English)",
+        "List Price(USD)": 300
+      },
+      {
+        "BOM Code": "0150A1LG",
+        "PID": "LIS-WINSVR2019-Dsktp Svcs-Dev",
+        "Description": "Windows Server 2019,Chinese,Dsktp Svcs CAL,1Device CAL(Chinese)",
+        "List Price(USD)": 299
+      },
+      {
+        "BOM Code": "0150A1P1",
+        "PID": "LIS-WINSVR2019-Client-User-En",
+        "Description": "Windows Server 2019 CAL,1User CAL(English)",
+        "List Price(USD)": 129
+      },
+      {
+        "BOM Code": "0150A1LK",
+        "PID": "LIS-WINSVR2019-Client-User",
+        "Description": "Windows Server 2019 CAL,1User CAL(Chinese)",
+        "List Price(USD)": 122
+      },
+      {
+        "BOM Code": "0150A1NT",
+        "PID": "LIS-WINSVR2019-Client-Dev-En",
+        "Description": "Windows Server 2019 CAL,1Device CAL(English)",
+        "List Price(USD)": 105
+      },
+      {
+        "BOM Code": "0150A1LJ",
+        "PID": "LIS-WINSVR2019-Client-Dev",
+        "Description": "Windows Server 2019 CAL,1Device CAL(Chinese)",
+        "List Price(USD)": 97
+      }
+    ],
+    "RAID,RISER,CABEL,PCIe Card-NIC": [
+      {
+        "BOM Code": "Site_3",
+        "__EMPTY": "V1.0_2"
+      },
+      {
+        "BOM Code": "0150A16F",
+        "PID": "NS-F5030D",
+        "Description": "H3C SecPath F5030D Firewall Bundle, Including Supervisor Engine Module, 1*8-Port GE Module, and 1*8-Port SFP+ Module",
+        "List Price(USD)": 68000,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0X8",
+        "PID": "CAB-SAS HD-0.84m-HD72R",
+        "Description": "MINI SAS HD Cable,0.84m,SAS HD72S,UL20744 30AWG,SAS HD72R",
+        "List Price(USD)": 29,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0N1",
+        "PID": "CAB-SAS HD-0.63m-36A",
+        "Description": "SAS HD Transit Cable,0.63m,SAS HD 36pinASAS Cable,SAS HD 36pinA",
+        "List Price(USD)": 15,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0S1",
+        "PID": "CAB-SAS HD 72S-0.52/0.57m-2*36A",
+        "Description": "SAS HD Transit Cable,0.57m,SAS HD 72pinS,SAS Cable,2*(SAS HD 36pinA)",
+        "List Price(USD)": 24,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0SE",
+        "PID": "CAB-SAS 68S-0.3m-2*36S",
+        "Description": "SAS HD Transit Cable,0.3m,SAS 68pinS,SAS Cable,2*(SAS HD 36pinS)",
+        "List Price(USD)": 23,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0SF",
+        "PID": "CAB-SAS HD 72S-0.54m-72A",
+        "Description": "SAS Cable,0.54m,MiniSAS HD 72PST,SAS 3.0+UL2651,MiniSAS HD 72PDA",
+        "List Price(USD)": 27,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0SG",
+        "PID": "CAB-SAS 68S-0.6m-2*36",
+        "Description": "SAS Transit Cable,0.6m,SAS 68pinS,SAS Cable,SAS HD 36pinA+36pinS",
+        "List Price(USD)": 23,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0SH",
+        "PID": "CAB-SAS HD 72S-0.65m-2*36",
+        "Description": "Mini SAS HD Transit Cable,0.65m,SAS HD 72pin,SAS Cable,2*SAS HD 36pin",
+        "List Price(USD)": 27,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0SM",
+        "PID": "CAB-SAS HD 72S-0.82m-2*36A",
+        "Description": "SAS HD Transit Cable,0.82m,SAS HD 72pinS,SAS Cable,2*(SAS HD 36pinA)",
+        "List Price(USD)": 27,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0SN",
+        "PID": "CAB-SAS HD 72S-0.83m-2*36A",
+        "Description": "SAS HD Transit Cable,0.83m,SAS HD 72pinS,SAS Cable,2*(SAS HD 36pinA)",
+        "List Price(USD)": 29,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0SQ",
+        "PID": "CAB-SAS 68S-0.6m-36A",
+        "Description": "SAS HD Transit Cable,0.6m,SAS 68pinS,SAS Cable,SAS HD 36pinA",
+        "List Price(USD)": 15,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0SW",
+        "PID": "CAB-SAS HD 72S-0.65m-36A",
+        "Description": "SAS HD Transit Cable,0.65m,SAS HD 72pinS,SAS Cable,SAS HD 36pinA",
+        "List Price(USD)": 14,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0T2",
+        "PID": "CAB-SAS HD 72S-0.71m-2*36A",
+        "Description": "SAS HD Transit Cable,0.71m,SAS HD 72pinS,SAS Cable,2*(SAS HD 36pinA)",
+        "List Price(USD)": 26,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0T9",
+        "PID": "CAB-SAS HD 72A-0.8m-2*OCulink",
+        "Description": "SAS-OCulink Transit Cable,0.8m,SAS HD 72pinA,SAS Cable,2*(OCulink 42pinS)",
+        "List Price(USD)": 39,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0TF",
+        "PID": "CAB-SAS 68S-0.69m-2*36A",
+        "Description": "SAS Transit Cable,0.69m,SAS 68pinS,SAS Cable,2*(SAS HD 36pinA)",
+        "List Price(USD)": 24,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0TK",
+        "PID": "CAB-SAS HD 72A-0.3m-2*36S",
+        "Description": "SAS HD Transit Cable,0.3m,SAS HD 72pinA,SAS Cable,2*(SAS HD 36pinS)",
+        "List Price(USD)": 29,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0U2",
+        "PID": "CAB-SAS HD 72S-0.82m-2*36A-LSI",
+        "Description": "SAS HD Transit Cable,0.82m,SAS HD 72pinS,SAS Cable,2*(SAS HD 36pinA)",
+        "List Price(USD)": 26,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0U3",
+        "PID": "CAB-SAS HD 72S-0.71m-2*36A-LSI",
+        "Description": "SAS HD Transit Cable,0.71m,SAS HD 72pinS,SAS Cable,2*(SAS HD 36pinA)",
+        "List Price(USD)": 26,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0U4",
+        "PID": "CAB-SAS HD 72S-0.65m-36A-LSI",
+        "Description": "SAS HD Transit Cable,0.65m,SAS HD 72pinS,SAS Cable,SAS HD 36pinA",
+        "List Price(USD)": 14,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0U9",
+        "PID": "CAB-SAS HD 72A-0.74m-2*36A",
+        "Description": "SAS HD Transit Cable,0.74m,SAS HD 72pinA,SAS Cable,2*(SAS HD 36pinA)",
+        "List Price(USD)": 26,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0UG",
+        "PID": "CAB-SAS HD 72A-0.55m-36A",
+        "Description": "SAS HD Transit Cable,0.55m,SAS HD 72PinA,SAS Cable,SAS HD 36A",
+        "List Price(USD)": 23,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0UW",
+        "PID": "CAB-SAS HD 72A-0.65m-36S/A",
+        "Description": "SAS HD Transit Cable,0.56m,SAS HD 72PinA,SAS Cable,SAS HD 36PinS+36PinA",
+        "List Price(USD)": 23,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0UY",
+        "PID": "CAB-SAS HD 72S-0.68m-72A",
+        "Description": "SAS HD Transit Cable,0.68m,SAS HD 72PinS,SAS Cable,SAS HD 72PinA",
+        "List Price(USD)": 29,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0V0",
+        "PID": "CAB-SAS HD 36A-0.56m-36S",
+        "Description": "SAS HD Transit Cable,0.56m,SAS HD 36PinA,SAS Cable,SAS HD 36PinS",
+        "List Price(USD)": 15,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0V2",
+        "PID": "CAB-SAS HD 72S-0.74m-72S",
+        "Description": "SAS HD Transit Cable,0.74m,SAS HD 72PinS,SAS Cable,SAS HD 72PinS",
+        "List Price(USD)": 27,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0V4",
+        "PID": "CAB-SAS 68S-0.72m-SAS HD 72S",
+        "Description": "SAS Transit Cable,0.72m,SAS 68PinS,SAS Cable,SAS HD 72PinS",
+        "List Price(USD)": 30,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0V5",
+        "PID": "CAB-SAS HD 72S-0.89m-72S",
+        "Description": "SAS HD Transit Cable,0.89m,SAS HD 72PinS,SAS Cable,SAS HD 72PinS",
+        "List Price(USD)": 30,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0V6",
+        "PID": "CAB-SAS HD-0.63m-36A-G3",
+        "Description": "Mini SAS HD Cable,0.63m,Mini SAS HD 36pinA,UL20744(30#2C+2D+AM)*8P+M+8C,Mini SAS HD 36pinA",
+        "List Price(USD)": 11,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0V7",
+        "PID": "UN-CAB-SAS HD 72S-0.8m-A-G3",
+        "Description": "SAS HD Transit Cable,0.8m,SAS HD 72pinS,SAS CableSAS HD 72pinA",
+        "List Price(USD)": 32,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0V8",
+        "PID": "UN-CAB-SAS HD 72S-0.72m-36A-G3",
+        "Description": "SAS HD Transit Cable,0.72m,SAS HD 72pinS,SAS Cable,2*SAS HD 36pinA",
+        "List Price(USD)": 30,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0V9",
+        "PID": "UN-CAB-SAS HD 72S-0.49m-A-G3",
+        "Description": "SAS HD Transit Cable,0.49m,SAS HD 72pinS,SAS Cable,SAS HD 72pinA",
+        "List Price(USD)": 27,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0VA",
+        "PID": "UN-CAB-SAS HD 72S-0.72m-2*36A-G3",
+        "Description": "SAS HD Transit Cable,0.72m,SAS HD 72pinS,SAS Cable,2*SAS HD 36pinA",
+        "List Price(USD)": 26,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0VB",
+        "PID": "UN-CAB-SAS HD 72S-0.52/0.57m-G3",
+        "Description": "SAS HD Transit Cable,0.57m,SAS HD 72pinS,SAS Cable,2*SAS HD 36pinA",
+        "List Price(USD)": 26,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0VD",
+        "PID": "CAB-SAS HD 72S-0.65m-36S/A",
+        "Description": "SAS HD Transit Cable,0.65m,SAS HD 72pinS,SAS Cable,SAS HD 36pinS+36pinA",
+        "List Price(USD)": 27,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0VE",
+        "PID": "CAB-SAS HD 36A-0.58m-SATA 7A/13S",
+        "Description": "SATA Transit Cable,0.58m,SAS HD 36PinA,UL+SAS Cable,SATA 7Pin+13Pin+HMB(6*1)1.25",
+        "List Price(USD)": 12,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0W3",
+        "PID": "CAB-SAS 68S-0.3m-36S",
+        "Description": "SAS HD Transit Cable,0.33m,SAS 68pinS,SAS Cable,2*SAS HD 36pinS",
+        "List Price(USD)": 21,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0W9",
+        "PID": "CAB-SAS HD 72S-0.74m-PMC-G2",
+        "Description": "SAS HD Cable,0.74m,SAS HD 72PinS,SAS Cable,SAS HD 72PinS",
+        "List Price(USD)": 27,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0WU",
+        "PID": "CAB-SAS 68S-0.71m-2*36A",
+        "Description": "Mini SAS Cable,0.71m,SAS 68pinS,SAS Cable,2*SAS HD 36pinA",
+        "List Price(USD)": 27,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0XC",
+        "PID": "CAB-SAS HD-0.6m-HD72R",
+        "Description": "MINI SAS HD Cable,0.6m,SAS HD72S,UL20744 30AWG,SAS HD72R",
+        "List Price(USD)": 26,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0XD",
+        "PID": "CAB-SAS HD-0.65m-2*HD36R",
+        "Description": "MiniSAS HD Cable,0.65m,SAS HD36R,UL20744 30AWG,SAS HD36R",
+        "List Price(USD)": 15,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0XF",
+        "PID": "CAB-SAS HD-0.74m-HD72S",
+        "Description": "MiniSAS HD Cable,0.74m,SAS HD72S,UL20744 30AWG,SAS HD36R",
+        "List Price(USD)": 29,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0XG",
+        "PID": "CAB-SAS HD-0.83m-HD72S",
+        "Description": "MiniSAS HD Cable,0.83m,SAS HD72S,UL20744 30AWG,SAS HD36R",
+        "List Price(USD)": 30,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0XJ",
+        "PID": "CAB-SAS HD-0.82m-HD72R",
+        "Description": "MINI SAS HD Cable,0.82m,SAS HD36S,UL20744 30AWG,SAS HD72R",
+        "List Price(USD)": 18,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0XL",
+        "PID": "CAB-SAS HD-0.73m-2*HD36R",
+        "Description": "MINI SAS HD Cable,0.73m,SAS HD36R,UL20744 30AWG,SAS HD36R",
+        "List Price(USD)": 15,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0XP",
+        "PID": "CAB-SAS HD-0.7m-2*HD72S/R",
+        "Description": "MiniSAS HD Cable,0.7m,SAS HD72S,UL20744 30AWG,SAS HD72R",
+        "List Price(USD)": 29,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0XQ",
+        "PID": "CAB-SAS HD-0.56m-2*HD72S/R",
+        "Description": "MiniSAS HD Cable,0.56m,SAS HD72S,UL20744 30AWG,SAS HD72R",
+        "List Price(USD)": 27,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0XT",
+        "PID": "CAB-SAS HD-0.57m-2*HD36R",
+        "Description": "MiniSAS HD Cable,0.57m,SAS HD72S,UL20744 30AWG,2*SAS HD36R",
+        "List Price(USD)": 29,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0XW",
+        "PID": "CAB-SAS HD-0.82m-2*HD72S/R",
+        "Description": "MiniSAS HD Cable,0.82m,SAS HD72S,UL20744 30AWG,SAS HD72R)",
+        "List Price(USD)": 30,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0XX",
+        "PID": "CAB-SAS HD-0.87m-2*HD36R",
+        "Description": "MiniSAS HD Cable,0.87m,SAS HD36R,UL20744 30AWG,SAS HD36R",
+        "List Price(USD)": 15,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0XY",
+        "PID": "CAB-SAS68S-0.71m-HD72R",
+        "Description": "SAS HD Cable,0.71m,SAS68S,UL20744 30AWG,SAS HD72R",
+        "List Price(USD)": 23,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0404A0Y0",
+        "PID": "CAB-SAS68S-0.74m-HD72R",
+        "Description": "SAS HD Cable,0.74m,SAS68S,UL20744 30AWG,SAS HD72R",
+        "List Price(USD)": 28,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A6T6",
+        "PID": "UN-NIC-GE-4P-360T-L3",
+        "Description": "4 Ports GE Copper Interface MLOM(X722) Ethernet Adapter,360T L3",
+        "List Price(USD)": 69,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A6T7",
+        "PID": "UN-NIC-10GE-2P-560T-L2",
+        "Description": "2 Ports 10GE Copper Interface MLOM(X722) Ethernet Adapter,560T L2",
+        "List Price(USD)": 266,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A6V4",
+        "PID": "UN-NIC-620F-B2-25Gb-2P",
+        "Description": "2-Port 25Gb Fiber Interface(MT27712) Ethernet Adapter(SFP+),620F,B2",
+        "List Price(USD)": 375,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7G5",
+        "PID": "UN-NIC-MCX4121A-F-B-25Gb-2P",
+        "Description": "2-Port 25Gb Fiber Interface Ethernet Adapter(SFP28)",
+        "List Price(USD)": 623,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7GK",
+        "PID": "UN-NIC-XXV710-F-B-25Gb-2P",
+        "Description": "2-Port 25GE Fiber Interface Ethernet Adapter(SFP+)",
+        "List Price(USD)": 609,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7QK",
+        "PID": "UN-NIC-GE-4P-360T-B2-1-X",
+        "Description": "4-Port GE Copper Interface Ethernet Adapter-360T-B2",
+        "List Price(USD)": 135,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7QM",
+        "PID": "UN-NIC-10GE-2P-530F-B2-1-X",
+        "Description": "2-Port 10GE Fiber Interface Ethernet Adapter(SFP+)-530F-B2",
+        "List Price(USD)": 219,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7QX",
+        "PID": "UN-NIC-620F-B2-25Gb-2P-1-X",
+        "Description": "2-Port 25Gb Fiber Interface Ethernet Adapter(SFP+)-620F-B2",
+        "List Price(USD)": 360,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7R1",
+        "PID": "UN-NIC-10GE-2P-520F-B2-1-X",
+        "Description": "2-Port 10GE Fiber Interface Ethernet Adapter(SFP+)-520F-B2",
+        "List Price(USD)": 203,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7WD",
+        "PID": "UN-NIC-X710DA4-F-B-10Gb-4P",
+        "Description": "4-Port 10Gb Fiber Interface Ethernet Adapter(SFP+)",
+        "List Price(USD)": 1015,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7XM",
+        "PID": "UN-NIC-BCM957302-F-B-10Gb-2P",
+        "Description": "2 Ports 10GE Fiber Interface Ethernet Adapter(BCM957302)",
+        "List Price(USD)": 255,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7XN",
+        "PID": "UN-NIC-BCM957414-F-B-25Gb-2P",
+        "Description": "2 Ports 25GE Fiber Interface Ethernet Adapter(BCM957414)",
+        "List Price(USD)": 469,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7XP",
+        "PID": "UN-NIC-BCM957416-T-B-10Gb-2P",
+        "Description": "2 Ports 10GE Copper Interface Ethernet Adapter(BCM957416)",
+        "List Price(USD)": 516,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7XQ",
+        "PID": "UN-NIC-BCM957412-F-B-10Gb-2P",
+        "Description": "2 Ports 10GE Fiber Interface Ethernet Adapter(BCM957412)",
+        "List Price(USD)": 328,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7XR",
+        "PID": "UN-NIC-MCX415A-F-B-100Gb-1P",
+        "Description": "1 Port 100GE Fiber Interface Ethernet Adapter(MCX415A)",
+        "List Price(USD)": 1874,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8DT",
+        "PID": "UN-NIC-X520-F-B-10Gb-2P",
+        "Description": "2-Port 10GE Fiber Interface Ethernet Adapter(SFP+),X520",
+        "List Price(USD)": 594,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8PE",
+        "PID": "UN-NIC-GE-4P-360T-L3-M",
+        "Description": "4 Ports GE Copper Interface MLOM(X722) Ethernet Adapter,360T L3",
+        "List Price(USD)": 58,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8PG",
+        "PID": "UN-NIC-10GE-2P-560T-L2-M",
+        "Description": "2 Ports 10GE Copper Interface MLOM(X722) Ethernet Adapter,560T L2",
+        "List Price(USD)": 266,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8PL",
+        "PID": "UN-NIC-10GE-2P-560F-L2-M",
+        "Description": "2 Ports 10GE Fiber Interface MLOM(X722) Ethernet Adapter(SFP+),560F L2",
+        "List Price(USD)": 119,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A9B1",
+        "PID": "UN-NIC-X520DA2-F-B-10Gb-2P",
+        "Description": "2-Port 10GE Fiber Interface Ethernet Adapter(SFP+)",
+        "List Price(USD)": 586,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A9B6",
+        "PID": "UN-NIC-X710DA2-F-B-10Gb-2P-2",
+        "Description": "2-Port 10GE Fiber Interface Ethernet Adapter(SFP+)",
+        "List Price(USD)": 547,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A9CB",
+        "PID": "UN-NIC-OPA-100Gb-1P",
+        "Description": "1-Port 100Gb Fiber Interface Ethernet Adapter(QSFP28)",
+        "List Price(USD)": 1843,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A9CX",
+        "PID": "UN-NIC-MCX416A-F-B-40/56-2P",
+        "Description": "2-Port 40/56Gb Fiber Interface Ethernet Adapter(SFP28)(MCX416A-BCAT)",
+        "List Price(USD)": 1607,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A9CY",
+        "PID": "UN-NIC-MCX416A-F-B-100Gb-2P",
+        "Description": "2-Port 100Gb Fiber Interface Ethernet Adapter(SFP28)(MCX416A-CCAT)",
+        "List Price(USD)": 2186,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A9K5",
+        "PID": "UN-NIC-CAVIUM-F-B-25Gb-2P",
+        "Description": "2-Port 25Gb Fiber Interface Ethernet Adapter(SFP28)",
+        "List Price(USD)": 609,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A9R1",
+        "PID": "UN-NIC-GE-4P-360T-s2",
+        "Description": "4-Port GE Copper Interface LOM Ethernet Adapter,360T s2",
+        "List Price(USD)": 130,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A9R2",
+        "PID": "UN-NIC-10GE-2P-530F-s3",
+        "Description": "2-Port 10GE Fiber Interface LOM Ethernet Adapter(SFP+),530F s3",
+        "List Price(USD)": 245,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AAB3",
+        "PID": "UN-NIC-I350-T-M-1Gb-2P",
+        "Description": "2 Ports 1Gb Copper Interface OCP Ethernet Adapter",
+        "List Price(USD)": 276,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AAB8",
+        "PID": "UN-NIC-X540-T-M-10Gb-2P",
+        "Description": "2 Ports 10Gb Copper Interface OCP Ethernet Adapter",
+        "List Price(USD)": 309,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AABD",
+        "PID": "UN-NIC-i599-F-M-10Gb-2P",
+        "Description": "2 Ports 10Gb Fiber Interface OCP Ethernet Adapter",
+        "List Price(USD)": 341,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB05",
+        "PID": "UN-NIC-X540-T2-T-10Gb-2P",
+        "Description": "2-Port 10GE Copper Interface Ethernet Adapter(Intel X540-AT2)",
+        "List Price(USD)": 750,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB5U",
+        "PID": "UN-NIC-MCX512A-ACAT-F-2*25Gb",
+        "Description": "2 Ports 25Gb Fiber Interface Ethernet Adapter(SFP28)(MCX512A-ACAT)",
+        "List Price(USD)": 953,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB5X",
+        "PID": "UN-NIC-X710-DA2-F-C-2*10Gb",
+        "Description": "2 Ports 10Gb Fiber Interface OCP Ethernet Adapter(SFP+)(X710-DA2)",
+        "List Price(USD)": 430,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB62",
+        "PID": "UN-NIC-XL710-QDA2-F-40Gb-2P",
+        "Description": "2-Port 40GE Fiber Interface Ethernet Adapter(Intel XL710QSR2)(with Intel Transceivers)",
+        "List Price(USD)": 2811,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB63",
+        "PID": "UN-NIC-XL710-QDA1-F-40Gb-1P",
+        "Description": "1-Port 40GE Fiber Interface Ethernet Adapter(Intel XL710QSR1)(with Intel Transceivers)",
+        "List Price(USD)": 1718,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABCJ",
+        "PID": "UN-NIC-BCM957412M4122C-C-1*25G",
+        "Description": "1 Port 25Gb Fiber Interface OCP Ethernet Adapter(SFP28)(BCM957412M4122C)",
+        "List Price(USD)": 438,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABCM",
+        "PID": "UN-NIC-MCX4421A-ACQN_C07-2*25G",
+        "Description": "2 Ports 25Gb Fiber Interface OCP Ethernet Adapter(SFP28)(MCX4421A-ACQN_C07)(For Baidu)",
+        "List Price(USD)": 578,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABCP",
+        "PID": "UN-NIC-BCM957414M4142C-C-2*25G",
+        "Description": "2 Ports 25Gb Fiber Interface OCP Ethernet Adapter(SFP28)(BCM957414M4142C)",
+        "List Price(USD)": 516,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABCR",
+        "PID": "UN-NIC-MCX4411A-ACQN_C07-1*25G",
+        "Description": "1 Port 25Gb Fiber Interface OCP Ethernet Adapter(SFP28)(MCX4411A-ACQN_C07)(For Baidu)",
+        "List Price(USD)": 566,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABH7",
+        "PID": "UN-NIC-ETH561F-sL-2*10G",
+        "Description": "2-Port 10Gb Optical Interface SLOM Ethernet Adapter Module(SFP+)",
+        "List Price(USD)": 375,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABH8",
+        "PID": "UN-NIC-ETH561F-sL-4*10G",
+        "Description": "4-Port 10Gb Optical Interface SLOM Ethernet Adapter Module(SFP+)",
+        "List Price(USD)": 414,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABP0",
+        "PID": "UN-NIC-10GE-2P-560F-LOM",
+        "Description": "H3C UniServer R4300 G3 2-Port 560F 10GE Fiber Interface LOM Ethernet Adapter(SFP+)",
+        "List Price(USD)": 313,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABRP",
+        "PID": "UN-NIC-ETH640F-L-2*25G",
+        "Description": "2-Port 25Gb Fiber Interface sLOM Ethernet Adapter(SFP+)",
+        "List Price(USD)": 266,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABWG",
+        "PID": "UN-NIC-MCX4621A-ACAB-2*25G",
+        "Description": "2 Ports 25Gb OCP3.0 Ethernet Adapter(MCX4621A-ACAB)",
+        "List Price(USD)": 617,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ACAJ",
+        "PID": "UN-NIC-iETH-PS225-H16",
+        "Description": "2-Port 25Gb Intelligent Fiber Interface Ethernet Adapter(SFP28)(PS225-H16)",
+        "List Price(USD)": 2936,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ACDE",
+        "PID": "UN-NIC-iETH-PS225-H08",
+        "Description": "2-Port 25Gb Intelligent Fiber Interface Ethernet Adapter(SFP28)(PS225-H08)",
+        "List Price(USD)": 1874,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ACUB",
+        "PID": "UN-NIC-X550-2A-2P-10G",
+        "Description": "2-Port 10Gb Copper Interface OCP Ethernet Adapter(M7108-X550-2T)",
+        "List Price(USD)": 602,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ACX1",
+        "PID": "UN-NIC-iETH-MBF1M332A-AENAT-2P",
+        "Description": "2-Port 25Gb Intelligent Fiber Interface Ethernet Adapter(SFP28)(MBF1M332A-AENAT)",
+        "List Price(USD)": 5309,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ADTY",
+        "PID": "UN-NIC-ETH563T-sL-2P",
+        "Description": "2-Port 10Gb Copper Interface(RJ45) sLOM(X550) Ethernet Adapter",
+        "List Price(USD)": 453,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A6T8",
+        "PID": "UN-NIC-10GE-2P-560F-L2",
+        "Description": "2 Ports 10GE Fiber Interface MLOM(X722) Ethernet Adapter(SFP+),560F L2",
+        "List Price(USD)": 128,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A5E3",
+        "PID": "UN-RS-3*FHHL-R4900",
+        "Description": "FHHL Riser Card(3 X8 FHHL)",
+        "List Price(USD)": 44,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A6RE",
+        "PID": "UN-RC-GPU/FHHL-2U-G3-2",
+        "Description": "GPU/FHFL Riser(Slot3)(1X16 GPU and 1X8 FHHL)",
+        "List Price(USD)": 63,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A6RF",
+        "PID": "UN-RC-FHHL-2U-G3-1",
+        "Description": "FHHL Riser(Slot1/2)(1X16 GPU and 1X8 FHHL)",
+        "List Price(USD)": 50,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A6RG",
+        "PID": "UN-RC-FHHL-2U-G3-2",
+        "Description": "FHHL Riser(Slot3)(1X16 FHHL and 1X8 FHHL)",
+        "List Price(USD)": 57,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A6RK",
+        "PID": "UN-RC-FHHL-1U-G3",
+        "Description": "FHHL Riser (Slot1/2)(Supporting 1*X16 FHHL)",
+        "List Price(USD)": 35,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A6SC",
+        "PID": "UN-RC-2*LP-2U-G3",
+        "Description": "LP Riser (Slot3)(Supporting 1*X16 LP and 1*X8 LP)",
+        "List Price(USD)": 63,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A6SD",
+        "PID": "UN-RC-GPU/FHHL-2U-G3-1",
+        "Description": "GPU/FHHL Riser(Slot1/2)(1X16 GPU and 1X8 FHHL)",
+        "List Price(USD)": 58,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8AD",
+        "PID": "UN-RC-Mezz-Riser-G3",
+        "Description": "Rack Server Mezz PCIe Riser Card(Supporting 1 X8 PCIe)",
+        "List Price(USD)": 43,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8AL",
+        "PID": "UN-RC-2*FHFL-2U-G3",
+        "Description": "FHFL Riser Card(Slot1)(Supporting 2*X16 FHFL)",
+        "List Price(USD)": 133,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8RS",
+        "PID": "UN-RS-GPU-R6900-G3",
+        "Description": "GPU Riser Card(CMOD Connector)",
+        "List Price(USD)": 146,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8RT",
+        "PID": "UN-RS-FHHL-G3",
+        "Description": "FHHL Riser Card(CMOD Connector)(Supporting 1*X16 FHHL)",
+        "List Price(USD)": 143,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8RU",
+        "PID": "UN-RS-4*FHHL-G3",
+        "Description": "FHHL Riser Card(Chassis Connector1/3)(Supporting 2*X16 FHHL+2*X8 FHHL FHHL,Supporting MLOM,Supporting X16 PCIE/SAS)",
+        "List Price(USD)": 384,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8RV",
+        "PID": "UN-RS-6*FHHL-G3-2",
+        "Description": "FHHL Riser Card(Chassis Connector2)(Supporting 6*X8 FHHL)",
+        "List Price(USD)": 423,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8S8",
+        "PID": "UN-RS-6*FHHL-G3-1",
+        "Description": "FHHL Riser Card(Chassis Connector1/3/4/6)(Supporting 6*X8 FHHL,Supporting MLOM,Supporting X16 PCIE/SAS)",
+        "List Price(USD)": 346,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AALU",
+        "PID": "UIS-RC-LP",
+        "Description": "UIS9000 Riser Card Module(Supporting 1*X16 LP)",
+        "List Price(USD)": 32,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB5A",
+        "PID": "UN-RC-3GPU-R4900-G3",
+        "Description": "Riser For GPU(Slot1/2)(Supporting 3 SW X16 GPU Slots,X8 Signal Bandwidth)",
+        "List Price(USD)": 44,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB5C",
+        "PID": "UN-RC-OCP/FHHL-2U-G3",
+        "Description": "OCP2.0/FHHL Riser(Slot1/2)(Supporting 1 X16 OCP and 1 X8 FHHL)",
+        "List Price(USD)": 113,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB5D",
+        "PID": "UN-RC-OCP-1U-G3",
+        "Description": "OCP2.0 Riser(Slot1/2)(Supporting 1 X16 OCP)",
+        "List Price(USD)": 94,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB5E",
+        "PID": "UN-RC-2GPU-R4900-G3",
+        "Description": "Riser For GPU(Slot3)(Supporting 2 SW X16 GPU Slots,X8 Signal Bandwidth)",
+        "List Price(USD)": 63,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB6L",
+        "PID": "UIS-RC-GPU/FHHL-2U-G3-2",
+        "Description": "GPU/FHFL Riser(Slot3)(1 X16 GPU and 1 X8 FHHL)",
+        "List Price(USD)": 63,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB6M",
+        "PID": "UIS-RC-GPU/FHHL-2U-G3-1",
+        "Description": "GPU/FHHL Riser(Slot1/2)(1 X16 GPU and 1 X8 FHHL)",
+        "List Price(USD)": 58,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB6Q",
+        "PID": "UIS-RC-2LP-2U-G3",
+        "Description": "LP Riser(Slot3)(1 X16 LP and 1 X8 LP)",
+        "List Price(USD)": 63,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AB70",
+        "PID": "UIS-RS-3FHHL-R4900",
+        "Description": "FHHL Riser(Slot1/2)(3 X8 FHHL)",
+        "List Price(USD)": 44,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABNR",
+        "PID": "UN-FHHL-2X8-G3",
+        "Description": "H3C UniServer R4300 G3 FHHL Riser(Slot2)(2 X8 FHHL)",
+        "List Price(USD)": 48,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABNW",
+        "PID": "UN-M.2-2XSATA3",
+        "Description": "H3C UniServer M.2 Riser(2 SATA 3.0)",
+        "List Price(USD)": 29,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABP2",
+        "PID": "UN-FHHL-X16-G3",
+        "Description": "H3C UniServer R4300 G3 FHHL Riser(Slot2)(1 X16 FHHL)",
+        "List Price(USD)": 54,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABP7",
+        "PID": "UN-FHHL-2X16+X8-G3",
+        "Description": "H3C UniServer R4300 G3 FHHL Riser(Slot1)(2 X16 FHHL And 1 X8 FHHL)",
+        "List Price(USD)": 68,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABRF",
+        "PID": "UN-RC-3*FHHL-G3",
+        "Description": "FHHL Riser(Slot1/2)(Supporting 2 X16 FHHL and 1 X8 FHHL)",
+        "List Price(USD)": 66,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABRK",
+        "PID": "UN-RC-4*NVME-3*FHHL-G3",
+        "Description": "4 Ports NVMe SSD and 3 X8 FHHL Riser(Slot 1/2)",
+        "List Price(USD)": 149,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABRL",
+        "PID": "UN-RC-2*FHHL-G3",
+        "Description": "LP Riser(Slot3)(Supporting 2 X8 FHHL)",
+        "List Price(USD)": 49,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ABRR",
+        "PID": "UN-RC-8*NVME-1*FHHL-G3",
+        "Description": "8 Ports NVMe SSD and 1X8 FHHL Riser(Slot 1/2)",
+        "List Price(USD)": 219,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ACUD",
+        "PID": "UN-RC-FHHL/OCP-2U2PG3",
+        "Description": "OCP2.0/FHHL Riser(Slot1/2)(Supporting 1 X16 OCP and 1 X8 FHHL)",
+        "List Price(USD)": 118,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AD4K",
+        "PID": "UN-RC-3FHHL-2U-G3",
+        "Description": "FHHL Riser(Slot1/2)(Supporting 3 X16 FHHL)",
+        "List Price(USD)": 141,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AD4P",
+        "PID": "UN-RC-2LP-2U-G3-1",
+        "Description": "LP Riser(Slot4)(Supporting 2 X8 LP)",
+        "List Price(USD)": 227,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AD4Q",
+        "PID": "UN-RC-2LP-2U-G3",
+        "Description": "LP Riser(Slot3)(Supporting 2 X16 LP)",
+        "List Price(USD)": 157,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AD56",
+        "PID": "UIS-GPU-UISC6K-G3",
+        "Description": "GPU Riser Card Module",
+        "List Price(USD)": 146,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ADCQ",
+        "PID": "UIS-RC-2*FHHL-G3",
+        "Description": "LP Riser(Slot3)(Supporting 2 X8 LP)",
+        "List Price(USD)": 49,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ADCS",
+        "PID": "UIS-RC-8*NVME-1*FHHL-G3",
+        "Description": "8 Ports NVMe SSD and 1X8 FHHL Riser(Slot 1/2)",
+        "List Price(USD)": 219,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ADCT",
+        "PID": "UIS-RC-3*FHHL-G3",
+        "Description": "FHHL Riser(Slot1/2)(Supporting 2 X16 FHHL and 1 X8 FHHL)",
+        "List Price(USD)": 66,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ADCW",
+        "PID": "UIS-RC-4*NVME-3*FHHL-G3",
+        "Description": "4 Ports NVMe SSD and 3 X8 FHHL Riser(Slot 1/2)",
+        "List Price(USD)": 149,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ADDQ",
+        "PID": "RT-RISER-FHFL-X16",
+        "Description": "SR6602-I PCIe Riser Module(FHFL, 1 PCIe X16 Slot)",
+        "List Price(USD)": 380,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ADEX",
+        "PID": "UN-RC-3FHFL-2U-4UG3",
+        "Description": "H3C UniServer R4300 G3 FHFL Riser(Slot1)(1 X16 FHFL And 2 X8 FHFL,2 X8 Open-End Slots)",
+        "List Price(USD)": 57,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ADF1",
+        "PID": "UN-RC-3FHFL-2U-4UG3-1",
+        "Description": "H3C UniServer R4300 G3 FHFL Riser(Slot2)(3 X8 FHFL,3 X8 Open-End Slots)",
+        "List Price(USD)": 99,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ADF4",
+        "PID": "UN-RC-2LP-1U-4UG3",
+        "Description": "H3C UniServer R4300 G3 LP Riser(Slot3)(2 X8 LP,2 X8 Open-End Slots)",
+        "List Price(USD)": 173,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231ADJU",
+        "PID": "UN-RC-M2-R4950",
+        "Description": "M.2 Riser Module(SATA Interface)",
+        "List Price(USD)": 33,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AE2S",
+        "PID": "RT-SIC-M2-SATA",
+        "Description": "M.2 Riser(1 SATA 3.0) SIC Module",
+        "List Price(USD)": 640,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AEGL",
+        "PID": "UN-RC-HHHL/NVMe-2U-G3-2",
+        "Description": "HHHL/NVMe Riser(Slot3)(Supporting 1X8 HHHL and 4 NVMe)",
+        "List Price(USD)": 149,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AEGP",
+        "PID": "UN-RC-FHHL/NVMe-2U-G3-1",
+        "Description": "FHHL/NVMe Riser(Slot1/2)(Supporting 1X8 FHHL and 4 NVMe)",
+        "List Price(USD)": 122,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AEYC",
+        "PID": "UN-RC-3FHHL-2U-SW-G5",
+        "Description": "GPU/FHHL Riser(Slot1/2)(1 X16 DW GPU And 2 X16 FHHL)(CTO&BTO)",
+        "List Price(USD)": 215,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AEYH",
+        "PID": "UN-RC-6FHHL-2U-SW-G5",
+        "Description": "FHHL Riser(Slot1/2)(6 X8 FHHL)(CTO&BTO)",
+        "List Price(USD)": 210,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AEYJ",
+        "PID": "UN-RC-3FHHL-2U-SW-G5-1",
+        "Description": "GPU/FHHL Riser(Slot3)(1 X16 DW GPU And 2 X16 FHHL)(CTO&BTO)",
+        "List Price(USD)": 218,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AEYK",
+        "PID": "UN-RC-6FHHL-2U-SW-G5-1",
+        "Description": "FHHL Riser(Slot3)(6 X8 FHHL)(CTO&BTO)",
+        "List Price(USD)": 240,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AF0Y",
+        "PID": "UN-RC-2FHFL-1U-SW-G5",
+        "Description": "H3C UniServer G5 1U Riser1 X16X16 Butterfly Riser(CTO&BTO)",
+        "List Price(USD)": 45,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AF17",
+        "PID": "UN-RC-1HHHL-R3-1U-SW-G5",
+        "Description": "H3C UniServer G5 1U Riser3 X16 Riser(CTO&BTO)",
+        "List Price(USD)": 33,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AF52",
+        "PID": "UN-RC-3FHFL-2U-SW-G5",
+        "Description": "G5 2U 3X16 Riser(Slot1/2)(Supporting 2*FHFL and 1*FHHL,Supporting 2*150W GPUs)(CTO&BTO)",
+        "List Price(USD)": 117,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AF5A",
+        "PID": "UN-RC-3FHFL-2U-G5",
+        "Description": "G5 2U X16X8X8 Riser(Slot1/2)(Supporting 2*FHFL and 1*FHHL,Supporting 1*300W GPU)(CTO&BTO)",
+        "List Price(USD)": 75,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AF5L",
+        "PID": "UN-RC-2HHHL-R3-2U-G5",
+        "Description": "G5 2U X8X8 Riser(Slot3)(Supporting 2*HHHL)(CTO&BTO)",
+        "List Price(USD)": 51,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A6L6",
+        "PID": "UN-RAID-LSI-9361-8i(2G)",
+        "Description": "LSI 9361-8i 12Gb 2 Ports SAS RAID Card(8 SAS Ports,2G Cache,No Power Fail Safeguard)",
+        "List Price(USD)": 1199,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7HA",
+        "PID": "UN-RAID-LSI-9460-16i(4G)",
+        "Description": "12Gb 4 Ports SAS RAID Controller(With 4GB Cache,Supporting 16 SAS Ports,PCIe,No Supercapacitor)",
+        "List Price(USD)": 2694,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7Q4",
+        "PID": "UN-RAID-LSI-9361-8i(2G)-1-X",
+        "Description": "LSI 9361-8i 12Gb 2 Ports SAS RAID Controller(8 SAS Ports,2G Cache,No Power Fail Safeguard)",
+        "List Price(USD)": 1250,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A7QS",
+        "PID": "UN-RAID-LSI-9361-8i(1G)-A1-X",
+        "Description": "LSI 9361-8i 12Gb 2 Ports SAS RAID Controller(8 SAS Ports,1GB Cache,No Power Fail Safeguard)",
+        "List Price(USD)": 1015,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8AE",
+        "PID": "UN-RAID-P460-B4",
+        "Description": "12Gb 2 Ports SAS RAID Controller(4GB Cache,8 SAS Ports,PCIe,No Supercapacitor)",
+        "List Price(USD)": 1093,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8AM",
+        "PID": "UN-RAID-P460-M4",
+        "Description": "12Gb 2 Ports SAS RAID Controller(4G Cache,8 SAS Ports,No Supercapacitor)",
+        "List Price(USD)": 1093,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8P4",
+        "PID": "UN-RAID-LSI-9460-8i(2G)",
+        "Description": "12Gb 2 Ports SAS RAID Controller(2GB Cache,8 SAS Ports,PCIe,No Supercapacitor)",
+        "List Price(USD)": 2342,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231A8P9",
+        "PID": "UN-RAID-LSI-9460-8i(4G)",
+        "Description": "12Gb 2 Ports SAS RAID Controller(4GB Cache,8 SAS Ports,PCIe,No Supercapacitor)",
+        "List Price(USD)": 2545,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AAMT",
+        "PID": "UIS-RAID-P5408-Mf-8i-4GB",
+        "Description": "UIS9000 12Gb SAS RAID Controller(4GB Cache,8 SAS Ports)",
+        "List Price(USD)": 924,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AAUG",
+        "PID": "UN-RAID-P460-B2",
+        "Description": "12Gb 2 Ports SAS RAID Controller(2GB Cache,8 SAS Ports,PCIe)",
+        "List Price(USD)": 859,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AAUJ",
+        "PID": "UN-RAID-P460-M2",
+        "Description": "12Gb 2 Ports SAS RAID Controller(2GB Cache,8 SAS Ports,Mezzanine)",
+        "List Price(USD)": 859,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AEVM",
+        "PID": "UN-RAID-LSI-9560-LP-16i-8GB",
+        "Description": "LSI 9560-16i 8GB 2 Ports SAS RAID Controller(Supporting 16 SAS Ports,PCIe,No Supercapacitor)",
+        "List Price(USD)": 2967,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AFA4",
+        "PID": "UN-BAT-PMC-G3-2U",
+        "Description": "PMC G3 Supercapacitor Module(Applicable to 2U LSI RAID Controller)(CTO&BTO)",
+        "List Price(USD)": 219,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AG62",
+        "PID": "UN-RAID-LSI-9560-LP-8i-4GB",
+        "Description": "LSI 9560-8i 12GB 1 Port SAS RAID Controller Module(Supporting 8 SAS Ports,4GB Cache,PCIe,No Supercapacitor)(CTO&BTO)",
+        "List Price(USD)": 2577,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "0231AGT9",
+        "PID": "UN-RAID-MARVELL-SANTACRUZ-LP-2i",
+        "Description": "MARVELL SantaCruz 2 Ports M.2 RAID Controller(Supporting 2 M.2 NVMe,PCIe)(CTO&BTO)",
+        "List Price(USD)": 1243,
+        "__EMPTY": "N_",
+        "__EMPTY_1": ""
+      },
+      {
+        "BOM Code": "SubTotal"
+      },
+      {
+        "BOM Code": "Total"
+      }
+    ],
+    "Guide Rail,Slide Rail ": [
+      {
+        "BOM Code": "0231A0HP",
+        "Description": "Slide Rail Accessories,350mm~500mm",
+        "List Price(USD)": 240
+      },
+      {
+        "BOM Code": "0231A0PL",
+        "Description": "Slide Rail Accessories,500mm-800mm",
+        "List Price(USD)": 290
+      },
+      {
+        "BOM Code": "0231A2VL",
+        "Description": "H3C S9810 Bottom Support Rails,630mm~900mm",
+        "List Price(USD)": 200
+      },
+      {
+        "BOM Code": "0231A4EK",
+        "Description": " 1U Bottom-Support Rails,630mm~900mm",
+        "List Price(USD)": 390
+      },
+      {
+        "BOM Code": "0231AAM4",
+        "Description": "UIS9000 12U Rail Kit",
+        "List Price(USD)": 420
+      },
+      {
+        "BOM Code": "0231AEYD",
+        "Description": " 4U Ball Bearing Rail Kit(CTO&BTO)",
+        "List Price(USD)": 188
+      },
+      {
+        "BOM Code": "0231AF5B",
+        "Description": "G5 2U/1U Ball Bearing Rail Kit(CTO&BTO)",
+        "List Price(USD)": 81
+      },
+      {
+        "BOM Code": "150A0EA",
+        "Description": "1U Ball Bearing Rail",
+        "List Price(USD)": 75
+      },
+      {
+        "BOM Code": "2150A0GT",
+        "Description": "2U Standard Rail-A",
+        "List Price(USD)": 63
+      }
+    ]
+  }

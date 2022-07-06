@@ -1,0 +1,13 @@
+.navigation-button-block{
+    width: auto;
+    height: auto;
+    display: inline-flex;
+    margin: 0 auto auto 0;
+}
+
+.navigation-button{
+    padding: 10px 10px 10px 10px;
+    background-color: none;
+    border: 1px red solid;
+    margin: 0 10px 10px 0;
+}
